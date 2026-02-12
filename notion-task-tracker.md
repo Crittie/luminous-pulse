@@ -44,9 +44,9 @@
 | Film 6-8 Reels | You | 1 | Not Started | Day 8-14 | Content | High |
 | Review and curate AI-generated affirmations | You | 1 | Not Started | Day 8-10 | Content | High |
 | Design 5-8 master Canva templates | You | 1 | Not Started | Day 8-11 | Content | High |
-| Create 30 static quote posts | You | 1 | Not Started | Day 11-16 | Content | High |
-| Create 8 carousel posts | You | 1 | Not Started | Day 12-16 | Content | High |
-| Design Story Highlight covers | You | 1 | Not Started | Day 14-16 | Content | Medium |
+| Create 30 static quote posts | Claude Code | 1 | Done | Day 11-16 | Content | High |
+| Create 8 carousel posts | Claude Code | 1 | Done | Day 12-16 | Content | High |
+| Design Story Highlight covers | Claude Code | 1 | Done | Day 14-16 | Content | Medium |
 | Record 2-3 affirmation meditation clips | You | 1 | Not Started | Day 14-18 | Content | Medium |
 | Generate 150+ affirmation texts (4 themes) | Claude Code | 1 | Done | Day 8-10 | Content | High |
 | Rate affirmations for resonance/shareability | Claude Code | 1 | Done | Day 10-12 | Content | Medium |
@@ -131,12 +131,12 @@
 | Phase | Total | Done | In Progress | Not Started |
 |-------|-------|------|-------------|-------------|
 | 0     | 20    | 18   | 0           | 2           |
-| 1     | 17    | 9    | 0           | 8           |
+| 1     | 17    | 12   | 0           | 5           |
 | 2     | 10    | 4    | 0           | 6           |
 | 3     | 16    | 1    | 0           | 15          |
 | 4     | 12    | 0    | 0           | 12          |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **32** | **0** | **55** |
+| **Total** | **87** | **35** | **0** | **52** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
