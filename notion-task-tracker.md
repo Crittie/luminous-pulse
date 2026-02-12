@@ -52,7 +52,7 @@
 | Rate affirmations for resonance/shareability | OpenClaw | 1 | Not Started | Day 10-12 | Content | Medium |
 | Generate captions for all 44+ posts | OpenClaw | 1 | Not Started | Day 12-15 | Content | High |
 | Compile hashtag sets (5 sets of 20-30) | Claude Code | 1 | Done | Day 10-12 | Marketing | High |
-| Build content calendar for Days 1-30 | OpenClaw | 1 | Not Started | Day 14-16 | Marketing | High |
+| Build content calendar for Days 1-30 | Claude Code | 1 | Done | Day 14-16 | Marketing | High |
 | Identify trending Reels audio | OpenClaw | 1 | Not Started | Day 8-10 | Content | Medium |
 | Write all carousel slide copy | Claude Code | 1 | Done | Day 10-14 | Content | High |
 | Write landing page copy for lead magnet | Claude Code | 1 | Done | Day 12-15 | Marketing | High |
@@ -131,12 +131,12 @@
 | Phase | Total | Done | In Progress | Not Started |
 |-------|-------|------|-------------|-------------|
 | 0     | 20    | 18   | 0           | 2           |
-| 1     | 17    | 6    | 0           | 11          |
+| 1     | 17    | 7    | 0           | 10          |
 | 2     | 10    | 4    | 0           | 6           |
 | 3     | 16    | 0    | 0           | 16          |
 | 4     | 12    | 0    | 0           | 12          |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **28** | **0** | **59** |
+| **Total** | **87** | **29** | **0** | **58** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
