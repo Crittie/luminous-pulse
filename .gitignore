@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated PDFs (keep PNGs for the site, regenerate PDFs from scripts)
+*.pdf
+
+# OS
+.DS_Store
+
+# Vercel
+.vercel/
