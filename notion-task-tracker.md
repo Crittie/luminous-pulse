@@ -25,7 +25,7 @@
 | Claim Instagram handle | You | 0 | Done | Day 2-3 | Brand | High |
 | Claim TikTok handle | You | 0 | Done | Day 2-3 | Brand | High |
 | Register domain (luminouspulse.co) | You | 0 | Done | Day 2-3 | Brand | High |
-| Set up brand email | You | 0 | Not Started | Day 2-3 | Brand | Medium |
+| Set up brand email | You | 0 | Done | Day 2-3 | Brand | Medium |
 | Choose Canva Pro or stay free tier | You | 0 | Done | Day 3-4 | Brand | Low |
 | Create logo (Claude Code — "The Touch") | You | 0 | Done | Day 4-5 | Brand | High |
 | Lock color palette (blue #6CB4EE, amber #F4C430, lavender #B4A7D6) | You | 0 | Done | Day 4-5 | Brand | High |
@@ -36,7 +36,7 @@
 | Generate 50+ brand name options | OpenClaw | 0 | Done | Day 1-2 | Brand | High |
 | Research top 20 competitor accounts | OpenClaw | 0 | Done | Day 1-3 | Marketing | High |
 | Generate 10 Instagram bio variations | OpenClaw | 0 | Done | Day 3-5 | Marketing | Medium |
-| Set up competitor monitoring | OpenClaw | 0 | Not Started | Day 5-7 | Marketing | Medium |
+| Set up competitor monitoring | OpenClaw | 0 | Done | Day 5-7 | Marketing | Medium |
 | Write brand positioning and tagline options | Claude Code | 0 | Done | Day 1-2 | Brand | High |
 | Draft Instagram bio copy (keyword-optimized) | Claude Code | 0 | Done | Day 2-3 | Brand | High |
 | Create brand voice guide | Claude Code | 0 | Done | Day 1-2 | Brand | High |
@@ -61,7 +61,7 @@
 | Seed Instagram grid with first 6-9 posts | You | 2 | Not Started | Day 19-20 | Content | High |
 | Set up Kit (ConvertKit) free tier | You | 2 | Not Started | Day 19 | Email | High |
 | Load welcome email sequence into Kit | You | 2 | Not Started | Day 19-20 | Email | High |
-| Create free lead magnet PDF | You | 2 | Not Started | Day 19-20 | Product | High |
+| Create free lead magnet PDF | You | 2 | Done | Day 19-20 | Product | High |
 | Set up Gumroad product page ($0 lead magnet) | You | 2 | Not Started | Day 20 | Product | High |
 | Connect link-in-bio to all destinations | You | 2 | Not Started | Day 20-21 | Tech | High |
 | Test entire funnel end-to-end | You | 2 | Not Started | Day 21 | Tech | High |
@@ -130,19 +130,16 @@
 
 | Phase | Total | Done | In Progress | Not Started |
 |-------|-------|------|-------------|-------------|
-| 0     | 20    | 16   | 0           | 4           |
+| 0     | 20    | 18   | 0           | 2           |
 | 1     | 17    | 4    | 0           | 13          |
-| 2     | 10    | 3    | 0           | 7           |
+| 2     | 10    | 4    | 0           | 6           |
 | 3     | 16    | 0    | 0           | 16          |
 | 4     | 12    | 0    | 0           | 12          |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **23** | **0** | **64** |
+| **Total** | **87** | **26** | **0** | **61** |
 
-### Phase 0 Remaining (4 items)
-- Set up brand email (You)
+### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
-- Set up competitor monitoring (OpenClaw)
-- Add logo to website (You — deploy via Vercel)
 
 ---
 
