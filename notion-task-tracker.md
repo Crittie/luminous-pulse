@@ -49,8 +49,8 @@
 | Design Story Highlight covers | You | 1 | Not Started | Day 14-16 | Content | Medium |
 | Record 2-3 affirmation meditation clips | You | 1 | Not Started | Day 14-18 | Content | Medium |
 | Generate 150+ affirmation texts (4 themes) | Claude Code | 1 | Done | Day 8-10 | Content | High |
-| Rate affirmations for resonance/shareability | OpenClaw | 1 | Not Started | Day 10-12 | Content | Medium |
-| Generate captions for all 44+ posts | OpenClaw | 1 | Not Started | Day 12-15 | Content | High |
+| Rate affirmations for resonance/shareability | Claude Code | 1 | Done | Day 10-12 | Content | Medium |
+| Generate captions for all 44+ posts | Claude Code | 1 | Done | Day 12-15 | Content | High |
 | Compile hashtag sets (5 sets of 20-30) | Claude Code | 1 | Done | Day 10-12 | Marketing | High |
 | Build content calendar for Days 1-30 | Claude Code | 1 | Done | Day 14-16 | Marketing | High |
 | Identify trending Reels audio | OpenClaw | 1 | Not Started | Day 8-10 | Content | Medium |
@@ -90,7 +90,7 @@
 | Write new batches of affirmation content | Claude Code | 3 | Not Started | Day 22-51 | Content | Medium |
 | Create carousel copy for themed collections | Claude Code | 3 | Not Started | Day 22-51 | Content | Medium |
 | Draft weekly email newsletter content | Claude Code | 3 | Not Started | Day 22-51 | Email | High |
-| Write scripts for IG Lives and Reels | Claude Code | 3 | Not Started | Day 22-51 | Content | High |
+| Write scripts for IG Lives and Reels | Claude Code | 3 | Done | Day 22-51 | Content | High |
 | Create paid affirmation card deck PDF ($9-17) | You | 4 | Not Started | Day 52-60 | Product | High |
 | Film talking-head Reels (personal story) | You | 4 | Not Started | Day 52-65 | Content | High |
 | Launch 7-day affirmation challenge | You | 4 | Not Started | Day 60-67 | Marketing | High |
@@ -131,12 +131,12 @@
 | Phase | Total | Done | In Progress | Not Started |
 |-------|-------|------|-------------|-------------|
 | 0     | 20    | 18   | 0           | 2           |
-| 1     | 17    | 7    | 0           | 10          |
+| 1     | 17    | 9    | 0           | 8           |
 | 2     | 10    | 4    | 0           | 6           |
-| 3     | 16    | 0    | 0           | 16          |
+| 3     | 16    | 1    | 0           | 15          |
 | 4     | 12    | 0    | 0           | 12          |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **29** | **0** | **58** |
+| **Total** | **87** | **32** | **0** | **55** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
