@@ -48,7 +48,7 @@
 | Create 8 carousel posts | You | 1 | Not Started | Day 12-16 | Content | High |
 | Design Story Highlight covers | You | 1 | Not Started | Day 14-16 | Content | Medium |
 | Record 2-3 affirmation meditation clips | You | 1 | Not Started | Day 14-18 | Content | Medium |
-| Generate 150+ affirmation texts (4 themes) | OpenClaw | 1 | Not Started | Day 8-10 | Content | High |
+| Generate 150+ affirmation texts (4 themes) | Claude Code | 1 | Done | Day 8-10 | Content | High |
 | Rate affirmations for resonance/shareability | OpenClaw | 1 | Not Started | Day 10-12 | Content | Medium |
 | Generate captions for all 44+ posts | OpenClaw | 1 | Not Started | Day 12-15 | Content | High |
 | Compile hashtag sets (5 sets of 20-30) | OpenClaw | 1 | Not Started | Day 10-12 | Marketing | High |
@@ -131,12 +131,12 @@
 | Phase | Total | Done | In Progress | Not Started |
 |-------|-------|------|-------------|-------------|
 | 0     | 20    | 18   | 0           | 2           |
-| 1     | 17    | 4    | 0           | 13          |
+| 1     | 17    | 5    | 0           | 12          |
 | 2     | 10    | 4    | 0           | 6           |
 | 3     | 16    | 0    | 0           | 16          |
 | 4     | 12    | 0    | 0           | 12          |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **26** | **0** | **61** |
+| **Total** | **87** | **27** | **0** | **60** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
