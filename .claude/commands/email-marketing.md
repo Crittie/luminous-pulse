@@ -143,6 +143,73 @@ WHEN subscriber clicks link containing "anxiety"
 THEN add tag theme-anxiety
 ```
 
+## Automatic Lead Magnet Delivery
+
+### How It Works
+When a new subscriber signs up (via Kit form or Gumroad $0 product), they immediately receive the "7 Affirmations for the AI Age" PDF — no delay, no manual step.
+
+### Option A: Kit Incentive Email (Recommended)
+Kit forms have a built-in "Incentive email" feature that sends a download link instantly on signup.
+
+**Setup Steps:**
+1. Go to **Kit → Grow → Landing Pages & Forms**
+2. Select or create your lead magnet opt-in form
+3. Click **Settings** (gear icon) on the form
+4. Under **Incentive**, toggle **Send incentive email** ON
+5. **Upload the PDF**: Click "Add file" and upload `/Users/christieparrow/affirmations-project/7-affirmations-lead-magnet.pdf`
+6. Customize the incentive email:
+   - **Subject**: `your 7 affirmations are here`
+   - **Body**:
+     ```
+     Hey — welcome to Luminous Pulse.
+
+     Your free affirmation card deck is ready. Download it below, print your favorites, and put one where you'll see it every day.
+
+     [Download button — auto-inserted by Kit]
+
+     These 7 affirmations were written for the world we actually live in — the AI age, the uncertainty, the constant change. They're reminders that your humanity isn't a limitation. It's your edge.
+
+     Over the next few days, I'll send you a few more thoughts on navigating this moment. Nothing spammy — just real talk.
+
+     Your humanity is your superpower.
+     — Christie
+
+     PS: If one of these affirmations hits different, reply and tell me which one. I read every reply.
+     ```
+7. Click **Save**
+8. The PDF download link is automatically included in the incentive email by Kit
+
+**Important Notes:**
+- The incentive email is separate from Welcome Email 1 — it's sent instantly, while the welcome sequence starts on its own schedule
+- Kit handles the download link and hosting — no need for external file hosting
+- Subscribers see a "Confirm your subscription" step first (double opt-in), then get the incentive email immediately after confirming
+
+### Option B: Gumroad Delivery (Alternative)
+If using Gumroad as the signup entry point ($0 product), Gumroad handles delivery natively.
+
+**Setup Steps:**
+1. Go to **Gumroad → Products → 7 Affirmations for the AI Age**
+2. Set price to **$0+** (pay what you want, minimum $0)
+3. Under **Content**, upload the PDF file
+4. Enable **Require email** in product settings
+5. Gumroad sends the PDF download link immediately after "purchase"
+6. Gumroad webhook → Kit adds `lead-magnet-downloaded` tag → triggers welcome sequence
+
+### Which Option to Use
+| Scenario | Use |
+|----------|-----|
+| Subscriber signs up via Kit form (website, link-in-bio) | Option A — Kit incentive email |
+| Subscriber signs up via Gumroad $0 product | Option B — Gumroad delivers PDF |
+| Both entry points active | Use both — Kit form has incentive email, Gumroad has its own delivery |
+
+### Testing the Delivery Flow
+1. **Kit form test**: Subscribe with a test email → confirm double opt-in → should receive incentive email with PDF link within 60 seconds
+2. **Gumroad test**: "Purchase" the $0 product → should receive Gumroad receipt with download link instantly
+3. **Welcome sequence test**: After either entry point, verify Welcome Email 1 arrives on schedule (Day 0, separate from the incentive/delivery email)
+4. **Tag verification**: Check Kit dashboard → subscriber should have `lead-magnet-downloaded` tag applied
+
+---
+
 ## Gumroad → Kit Integration
 
 ### Free Lead Magnet ($0 product)
@@ -150,6 +217,7 @@ THEN add tag theme-anxiety
 2. In Gumroad → Settings → Integrations → connect Kit
 3. Map purchase to `lead-magnet-downloaded` tag
 4. Kit automation triggers welcome sequence
+5. Gumroad delivers the PDF automatically (see "Automatic Lead Magnet Delivery" above)
 
 ### Paid Product ($9-17)
 1. Create Gumroad product with price
