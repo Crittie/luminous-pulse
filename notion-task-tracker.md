@@ -107,7 +107,7 @@
 | Write affirmation card deck content (paid) | Claude Code | 4 | Done | Day 52-58 | Product | High |
 | Write Etsy listing copy (SEO-optimized) | Claude Code | 4 | Done | Day 55-60 | Product | High |
 | Write Gumroad product page copy (paid) | Claude Code | 4 | Done | Day 55-60 | Product | High |
-| Draft 5-email nurture sequence (conversion) | Claude Code | 4 | Not Started | Day 58-65 | Email | High |
+| Draft 5-email nurture sequence (conversion) | Claude Code | 4 | Done | Day 58-65 | Email | High |
 | Write SEO blog posts | Claude Code | 4 | Not Started | Day 60-81 | Content | Medium |
 | Launch signature product ($27-47) | You | 5 | Not Started | Day 82-90 | Product | High |
 | Start paid ads ($5-10/day on top Reels) | You | 5 | Not Started | Day 82-95 | Marketing | High |
@@ -135,9 +135,9 @@
 | 1     | 17    | 12   | 0           | 5           |
 | 2     | 11    | 6    | 1           | 4           |
 | 3     | 16    | 1    | 0           | 15          |
-| 4     | 12    | 4    | 0           | 8           |
+| 4     | 12    | 5    | 0           | 7           |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **88** | **41** | **1** | **46** |
+| **Total** | **88** | **42** | **1** | **45** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
