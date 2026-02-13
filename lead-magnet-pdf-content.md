@@ -1,113 +1,148 @@
-# Lead Magnet PDF Content — "7 Affirmations for the AI Age"
+# Lead Magnet PDF Content — "The 5-Day Grounding Practice"
 
-> **Format**: PDF, 9 pages (1 card per page at 4x6)
-> **Pages**: Cover + Instructions + 7 Cards (front/back on same page) + What's Next
-> **Design**: Navy background, Helvetica Neue font, brand palette
-> **Creator**: Christie Parrow | @luminouspulse.co | luminouspulse.co
+> **Format**: PDF, 10 pages
+> **Pages**: Cover + How to Use + 5 Day Cards (affirmation + breathwork + reflection) + Permission + What's Next
+> **Design**: Navy background, Helvetica Neue font, brand palette (blue #6CB4EE, amber #F4C430, lavender #B4A7D6)
+> **Creator**: Christie Parrow | @luminouspulse | luminouspulse.co
 
 ---
 
 ## Page 1: Cover
 
-**7 Affirmations for the AI Age**
+**The 5-Day Grounding Practice**
 
-daily reminders that your humanity is your superpower.
+For when the future feels heavier than you can carry.
 
-*[Touch icon mark]*
+*[Sanctuary logo mark]*
 
-luminous pulse
+Luminous Pulse
 luminouspulse.co
 
 ---
 
-## Page 2: How to Use This Deck
+## Page 2: How to Use This Practice
 
-**the practice (2 minutes)**
+**your morning practice (2 minutes)**
 
-1. Pick one card each morning.
-2. Stand up. Posture matters.
-3. Take one deep breath.
-4. Say the affirmation aloud, three times, slowly.
-5. Sit with the feeling for 30 seconds.
-6. Reflect using the prompt below the affirmation.
+1. Each morning, read the day's grounding word.
+2. Say it aloud, three times, slowly.
+3. Take 2 minutes with the breathwork exercise.
+4. Sit with the reflection prompt.
+5. Notice how you feel by Day 5.
 
 The feeling follows the words. Not the other way around.
 
 *Pin your favorite to your desk, mirror, or laptop lid. Let it find you throughout the day.*
 
----
+**Who this is for:**
 
-## Page 3: Card 1
-
-**"My intuition is trained on a lifetime of being human. No dataset compares."**
-
-reflect: Think of a time your gut feeling was right — when the data said one thing but you knew better. That instinct isn't going anywhere.
+Anyone carrying the weight of a world that's changing fast. If you've been laid off, fear you're next, or just feel the ground shifting beneath you — this is your practice.
 
 ---
 
-## Page 4: Card 2
+## Page 3: Day 1 — Come Home
 
-**"Technology amplifies my creativity. It does not replace it."**
+**"I am whole before I open my laptop."**
 
-reflect: Name one creative idea you've had recently that no tool prompted. Where did it come from? That source is yours alone.
+breathe: Place both feet flat on the floor. Inhale through your nose for 4 counts. Hold for 4 counts. Exhale through your mouth for 6 counts. Repeat 3 times.
 
----
-
-## Page 5: Card 3
-
-**"I adapt, I learn, and I bring something to every room that no tool ever will."**
-
-reflect: List three skills you've learned in the past five years that you never planned to learn. You adapt. You always have.
+reflect: When was the last time you felt like yourself — not your job title, not your output, just you? What were you doing? That person is still here.
 
 ---
 
-## Page 6: Card 4
+## Page 4: Day 2 — Remember
 
-**"I am not in competition with technology. I am in partnership with it."**
+**"My intuition was trained by a lifetime of being alive. Nothing compares."**
 
-reflect: Where in your work could AI handle the repetitive parts so you can spend more time on the parts only you can do?
+breathe: Close your eyes. Inhale and silently say "I am." Exhale and silently say "here." Repeat for 2 minutes.
+
+reflect: Think of a time your gut feeling was right — when the data said one thing but you knew better. That instinct didn't get laid off. It's still running.
 
 ---
 
-## Page 7: Card 5
+## Page 5: Day 3 — Name the Feeling
+
+**"I am not broken for feeling anxious. I am awake in a world that is changing fast."**
+
+breathe: The 4-7-8 breath. Inhale through your nose for 4 counts. Hold for 7 counts. Exhale slowly through your mouth for 8 counts. Repeat 4 times.
+
+reflect: Name three feelings you're carrying right now. Don't judge them. Don't fix them. Just name them. (Example: fear, anger, relief.) Naming them takes their power.
+
+---
+
+## Page 6: Day 4 — Permission
 
 **"I give myself permission to navigate this moment with curiosity, not panic."**
 
-reflect: What's one thing about AI that genuinely excites you — separate from what scares you? Hold both feelings at once.
+breathe: Place one hand on your chest and one on your belly. Breathe so that only the belly hand moves. This activates your parasympathetic nervous system — the part that says "you are safe." 10 breaths.
+
+reflect: What would change if you replaced "I should know what's next" with "I'm allowed to not know yet"? Write down what you'd stop doing. Write down what you'd start.
 
 ---
 
-## Page 8: Card 6
+## Page 7: Day 5 — What Cannot Be Touched
 
-**"My value is not measured in output speed. It is measured in judgment."**
+**"There is something in me that change cannot touch. Today, I remember it."**
 
-reflect: Think of your best contribution this year. Was it fast? Or was it thoughtful? The things that matter most rarely come from moving faster.
+breathe: Stand up. Feet on the floor. Shoulders down. Three deep breaths — in through the nose, out through the mouth. On the last exhale, let go of everything you're carrying that isn't yours.
+
+reflect: Underneath the job title, the industry shift, the anxiety — what is the truest thing about you? The thing that existed before all of this and will exist after? Write it down. Keep it close.
 
 ---
 
-## Page 9: Card 7
+## Page 8: Your Permission Slip
 
-**"I carry things no technology will ever replicate: lived experience, empathy, and purpose."**
+**You are allowed to:**
 
-reflect: Write down one moment where your empathy changed an outcome. That's your evidence. Keep it close.
+- Feel the full weight of what's happening without rushing to "move on"
+- Not have a plan yet
+- Say "I don't know" when people ask what's next
+- Step away from the noise without calling it "falling behind"
+- Grieve a job, even if you weren't happy there
+- Take longer than you thought you would
+- Ask for help
+- Rest
+
+**This permission does not expire.**
+
+---
+
+## Page 9: The Morning Practice (Keep This)
+
+**Make grounding a daily habit:**
+
+1. Pick one grounding word each morning (start with your favorite from this practice)
+2. Say it aloud three times before you open your phone
+3. Take 5 breaths with your feet on the floor
+4. Set the grounding word as your phone wallpaper for the day
+5. When the anxiety comes — and it will — return to the word
+
+The practice is not about feeling better. It's about feeling grounded. The difference matters.
 
 ---
 
 ## Page 10: What's Next
 
-**these 7 are just the beginning.**
+**These 5 days are just the beginning.**
 
-The full collection — 50 Affirmations for the AI Age — covers:
+If this practice helped you — there's more.
 
-- AI-age empowerment
-- Career confidence
-- Morning motivation
-- Anxiety relief
+**The 30-Day Luminous Pulse Practice** takes you deeper across five themes:
 
-Each comes with a reflection prompt to help you go deeper.
+- Remember Who You Are
+- Name the Feeling
+- Ground Yourself
+- You Are Not Alone
+- The World We're Building
 
-**follow @luminouspulse.co for daily affirmations.**
+30 grounding affirmations. 30 reflection prompts. Daily breathwork. A morning practice framework you can carry for life.
+
+**[Get the 30-Day Practice →]**
+
+---
+
+**Follow @luminouspulse for daily grounding words that meet you where you actually are.**
 
 luminouspulse.co
 
-your humanity is your superpower.
+You are held.

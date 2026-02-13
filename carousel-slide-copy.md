@@ -6,12 +6,13 @@
 
 ---
 
-## Carousel 1: "5 Things AI Will Never Have"
+## Carousel 1: "5 Things That Cannot Be Downloaded"
 
-**Theme**: AI-Age Empowerment
+**Pillar**: Remember Who You Are
 
 **Slide 1 (Hook)**
-5 Things AI Will Never Have
+5 Things That Cannot
+Be Downloaded
 
 **Slide 2**
 The instinct to pause
@@ -29,7 +30,7 @@ and making them feel less alone.
 
 **Slide 5**
 The ability to look at a sunset
-and feel something it can't name.
+and feel something you can't name.
 
 **Slide 6**
 The stubbornness to keep going
@@ -49,128 +50,125 @@ who needs to hear this today.
 
 ---
 
-## Carousel 2: "5 Affirmations for the AI Age"
+## Carousel 2: "5 Grounding Words for Uncertain Mornings"
 
-**Theme**: Morning Motivation
+**Pillar**: Ground Yourself
 
 **Slide 1 (Hook)**
-5 Affirmations for
-the AI Age
+5 Grounding Words for
+Uncertain Mornings
 
 (screenshot this)
 
 **Slide 2**
-"I am irreplaceable—
+"I am irreplaceable —
 not because of what I produce,
 but because of who I am."
 
 **Slide 3**
-"Technology amplifies
-my creativity.
-It does not replace it."
+"My creativity runs on living.
+It always has."
 
 **Slide 4**
-"I adapt, I learn,
-and I bring something to every room
-that no tool ever will."
+"I do not need to have it
+all figured out this morning.
+I just need to begin."
 
 **Slide 5**
-"My intuition is trained
-on a lifetime of being human.
-No dataset compares."
+"My intuition was trained
+by a lifetime of being alive.
+Nothing compares."
 
 **Slide 6**
-"I choose to grow alongside AI,
-not in competition with it."
+"I choose to grow alongside
+everything that changes."
 
-**Slide 7 (Recap)**
+**Slide 7 (Practice)**
 Your morning practice:
-Read these aloud.
-Every single day.
+Read one aloud.
+Take three breaths.
+Begin your day grounded.
 
 **Slide 8 (CTA)**
-Want 7 more?
-Grab our free affirmation guide.
-Link in bio.
+Want a full 5-day practice?
+Free grounding guide —
+link in bio.
 
 ---
 
-## Carousel 3: "How to Reframe AI Anxiety"
+## Carousel 3: "How to Ground Yourself When the News Gets Loud"
 
-**Theme**: Anxiety Relief
+**Pillar**: Name the Feeling
 
 **Slide 1 (Hook)**
-Feeling anxious about AI?
-
-Read this before
-your next spiral.
+Another round of layoffs.
+Another AI announcement.
+Here's what to do
+before your next spiral.
 
 **Slide 2**
 The anxiety is normal.
-You're watching the world change
-in real time.
+You're watching your industry
+reshape itself in real time.
 That's disorienting.
 
 **Slide 3**
 But here's what anxiety skips:
 You've adapted before.
-New tools. New industries.
-New ways of working.
+New realities. New landscapes.
 You're still here.
 
 **Slide 4**
-AI is a tool.
-A powerful one.
-But a tool doesn't have
-your judgment,
-your taste,
-your instincts.
+Your judgment, your taste,
+your instincts —
+these were built by a life
+no headline can take from you.
 
 **Slide 5**
 The people who thrive
-won't be the ones who fight AI.
-They'll be the ones who
-use it without losing themselves.
+won't be the ones who panic.
+They'll be the ones who stay
+grounded in who they are.
 
 **Slide 6**
-Affirmation:
+Grounding word:
 "I navigate change
 with steadiness and curiosity.
 I have done this before."
 
 **Slide 7**
-Affirmation:
-"I am not in competition
-with technology.
-I am in partnership with it."
+Grounding word:
+"I was not designed.
+I emerged.
+That is a kind of miracle."
 
 **Slide 8 (CTA)**
 Save this carousel.
 Come back to it
 the next time a headline
-tries to scare you.
+tries to steal your peace.
 
 ---
 
-## Carousel 4: "What Your Boss Can't Automate"
+## Carousel 4: "What Only Humans Can Do"
 
-**Theme**: Career Confidence
+**Pillar**: Remember Who You Are
 
 **Slide 1 (Hook)**
-What your boss
-can't automate:
+What only humans
+can do:
 
 (this might surprise you)
 
 **Slide 2**
 Reading the room
 in a tense meeting
-and knowing when to speak—
+and knowing when to speak —
 and when to listen.
 
 **Slide 3**
 Building trust
-with a difficult client
+with a difficult person
 over months of small,
 consistent gestures.
 
@@ -180,45 +178,43 @@ when the data says one thing
 and your gut says another.
 
 **Slide 5**
-Mentoring someone
-through a career crisis
+Sitting with someone
+through a hard moment
 with honesty and care.
 
 **Slide 6**
 Noticing what's NOT
-being said in a meeting—
+being said —
 and gently surfacing it.
 
 **Slide 7 (Affirmation)**
-"I bring emotional intelligence,
-ethical judgment, and lived experience
-to every role I hold."
+"I bring warmth to cold systems.
+That is not a small thing."
 
 **Slide 8 (CTA)**
-Know someone worried about
-their job in the AI age?
+Know someone carrying
+the weight of a changing world?
 Send them this.
 
 ---
 
-## Carousel 5: "Morning Affirmations for Tech Workers"
+## Carousel 5: "5 Grounding Words to Start Your Morning"
 
-**Theme**: Morning Motivation + Career Confidence
+**Pillar**: Ground Yourself
 
 **Slide 1 (Hook)**
-Morning affirmations
-for anyone who works
-alongside AI tools
+5 grounding words
+to start your morning
 
 **Slide 2**
-"I use AI as a collaborator,
-not a replacement
-for my own thinking."
+"I do not need to optimize
+my morning.
+I need to feel it."
 
 **Slide 3**
-"My value at work is not
-measured in output speed.
-It's measured in judgment."
+"My worth was never measured
+in speed. It is measured
+in depth."
 
 **Slide 4**
 "I am allowed to learn slowly.
@@ -226,14 +222,13 @@ Mastery and speed
 are not the same thing."
 
 **Slide 5**
-"Today, I bring something
-to my work that no prompt
-could ever generate: me."
+"Today, I bring the one thing
+no tool can:
+genuine intention."
 
 **Slide 6**
-"I do not need to know
-everything about AI
-to be valuable."
+"I do not need to earn my worth
+today. I woke up with it."
 
 **Slide 7 (Practice)**
 Try this:
@@ -242,21 +237,21 @@ Set it as your phone wallpaper.
 Read it every morning this week.
 
 **Slide 8 (CTA)**
-Follow for daily affirmations
-that actually match
-the world you live in.
+Follow for grounding words
+that meet you
+where you actually are.
 
 ---
 
 ## Carousel 6: "Signs You're More Resilient Than You Think"
 
-**Theme**: Anxiety Relief + Empowerment
+**Pillar**: Name the Feeling
 
 **Slide 1 (Hook)**
 6 signs you're more resilient
 than you think
 
-(even if it doesn't feel like it)
+(even if LinkedIn says otherwise)
 
 **Slide 2**
 You've already survived
@@ -264,9 +259,9 @@ every "worst day" you've had.
 Your track record is 100%.
 
 **Slide 3**
-You learned new tools
-when your industry changed—
-even when it felt impossible.
+You've adapted before —
+through reorgs, pivots, layoffs,
+and industries that changed overnight.
 
 **Slide 4**
 You ask hard questions
@@ -275,21 +270,21 @@ instead of burying your head.
 (You're doing that right now.)
 
 **Slide 5**
-You're here—
+You're here —
 seeking growth, not avoidance.
 That's not anxiety.
 That's wisdom in motion.
 
 **Slide 6**
 You hold complexity.
-You can be excited about AI
+You can be hopeful about the future
 AND unsettled by it.
 Both are valid. Both are human.
 
 **Slide 7 (Affirmation)**
 "I have adapted before.
 I will adapt again.
-My resilience is not a theory—
+My resilience is not a theory —
 it's my lived history."
 
 **Slide 8 (CTA)**
@@ -300,65 +295,65 @@ who's been in their head lately.
 
 ---
 
-## Carousel 7: "The Human Skills That Matter Most Now"
+## Carousel 7: "The Things That Make You Irreplaceable"
 
-**Theme**: Career Confidence
+**Pillar**: Remember Who You Are
 
 **Slide 1 (Hook)**
-In the age of AI,
-these human skills
-matter more than ever:
+In a world that's changing fast,
+these are the things
+that make you irreplaceable:
 
 **Slide 2**
 Creative problem-solving.
-AI optimizes within rules.
+Systems optimize within rules.
 You break them
 when they stop working.
 
 **Slide 3**
-Emotional regulation.
+Emotional steadiness.
 Staying calm in chaos.
 Leading through uncertainty.
-No model can do this.
+This is a human gift.
 
 **Slide 4**
-Cross-cultural communication.
-Understanding context, nuance,
-and the things people mean
-but don't say.
-
-**Slide 5**
-Ethical judgment.
-Deciding what *should* be done—
-not just what *can* be done.
-
-**Slide 6**
 Deep listening.
 Hearing what someone needs
 before they've found the words.
 
+**Slide 5**
+Ethical judgment.
+Deciding what *should* be done —
+not just what *can* be done.
+
+**Slide 6**
+Presence.
+Being fully with someone
+in a way no notification
+will ever match.
+
 **Slide 7 (Affirmation)**
-"My human skills are not soft skills.
-They are survival skills.
-And they are mine."
+"I give the world something
+it cannot download: presence."
 
 **Slide 8 (CTA)**
-Which skill resonates most?
+Which one resonates most?
 Tell us in the comments.
 
-Follow for more content
-that reminds you of your worth
-in the AI age.
+Follow for more reminders
+of what makes you irreplaceable.
 
 ---
 
-## Carousel 8: "A Permission Slip for the AI Age"
+## Carousel 8: "A Permission Slip for Uncertain Times"
 
-**Theme**: Anxiety Relief
+**Pillar**: Name the Feeling
 
 **Slide 1 (Hook)**
-Consider this
-your permission slip:
+Consider this your
+permission slip:
+
+(especially if you're in tech)
 
 **Slide 2**
 You are allowed to feel
@@ -368,24 +363,24 @@ things are changing.
 **Slide 3**
 You are allowed to not
 have an opinion on
-every new AI tool.
+every product launch and layoff announcement.
 
 **Slide 4**
 You are allowed to say
 "I don't know yet"
-when someone asks if AI
-will take your job.
+when someone asks
+what you're doing next.
 
 **Slide 5**
-You are allowed to use AI
-without feeling like a fraud—
-and to not use it
-without feeling left behind.
-
-**Slide 6**
 You are allowed to move
 at your own pace.
-Adoption is not a race.
+Healing is not a race.
+Growth is not a race.
+
+**Slide 6**
+You are allowed to step away
+from the noise.
+Silence is not falling behind.
 
 **Slide 7 (Affirmation)**
 "I give myself permission
@@ -396,5 +391,5 @@ with curiosity, not panic."
 Save your permission slip.
 It doesn't expire.
 
-Free affirmation guide
+Free grounding practice
 in our bio.

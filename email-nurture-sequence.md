@@ -1,8 +1,8 @@
 # 5-Email Nurture Sequence — Free → Paid Conversion
 
 > **Trigger**: Subscriber completes welcome sequence AND does NOT have `paid-customer` tag
-> **Goal**: Convert free lead magnet subscribers into paid customers ($12-17 deck)
-> **Tone**: Same as welcome sequence — personal, warm, story-driven. Never pushy.
+> **Goal**: Convert free practice subscribers into paid customers ($37 Luminous Pulse Practice)
+> **Tone**: Same as welcome sequence — personal, warm, tender, story-driven. Never pushy.
 > **From name**: Christie at Luminous Pulse
 > **Timing**: Day 7, Day 10, Day 14, Day 17, Day 21 (after initial signup)
 
@@ -10,7 +10,7 @@
 
 ## Email 1: The Story (Day 7)
 
-**Subject**: what I wish someone told me about AI anxiety
+**Subject**: what I wish someone told me about this feeling
 
 **Preview text**: It wasn't a tool that scared me. It was a meeting.
 
@@ -30,20 +30,20 @@ And here's what I figured out over the next few weeks: the spiral wasn't about A
 
 That's the real crisis nobody talks about. It's not a skills gap. It's an identity gap.
 
-The affirmations I write aren't about ignoring AI or pretending it doesn't matter. They're about remembering who you are underneath what you produce.
+The grounding words I write aren't about ignoring what's happening or pretending everything is fine. They're about remembering who you are underneath what you produce. The part of you that loves, that cares, that shows up even when it's hard.
 
-If you've ever felt that unnamed heaviness after reading an AI headline — you're not broken. You're human. And that's the whole point.
+If you've ever felt that unnamed heaviness after reading a headline — you're not broken. You're human. And that's the whole point.
 
 More soon,
 Christie
 
-P.S. — If you haven't tried saying one of the free affirmations out loud yet, today's a good day. Start with: *"My intuition is trained on a lifetime of being human. No dataset compares."*
+P.S. — If you haven't tried saying one of the grounding affirmations out loud yet, today's a good day. Start with: *"There is something in me that change cannot touch. Today, I remember it."*
 
 ---
 
 ## Email 2: Value-First (Day 10)
 
-**Subject**: 3 affirmations for your work week
+**Subject**: 3 grounding words for your work week
 
 **Preview text**: Pin one to your desk. Say it before your first meeting.
 
@@ -51,22 +51,22 @@ P.S. — If you haven't tried saying one of the free affirmations out loud yet, 
 
 Hey,
 
-Monday energy incoming. Here are three affirmations to carry into your week — one for each vibe:
+Monday energy incoming. Here are three grounding words to carry into your week — one for each vibe:
 
-**If you're feeling uncertain:**
+**If the future feels heavy:**
 > *"I will not panic about a future I am actively building."*
-
-**If you're in meetings all day:**
-> *"I read rooms, build trust, and make calls that no dashboard can make. That is my job."*
 
 **If imposter syndrome is loud:**
 > *"I can learn any tool. No tool can learn to be me."*
+
+**If you need permission to slow down:**
+> *"I do not need to optimize my morning. I need to feel it."*
 
 Pick one. Write it on a sticky note. Put it where you'll see it before your first meeting.
 
 The practice is simple: read it, say it out loud once, and move on with your day. Two seconds. That's all it takes to shift the energy.
 
-These three are from the full collection — 50 affirmations across four themes, each with a reflection prompt to help you go deeper. If the free 7 cards have been working for you, the full deck is the next step.
+These three are from the full practice — 30 days of grounding affirmations, reflection prompts, and breathwork for uncertain times. If the free 5-day practice has been working for you, the full practice is the next step.
 
 But for now — just pick one of these three and try it tomorrow morning.
 
@@ -77,51 +77,52 @@ P.S. — Which one did you pick? Reply and tell me. I'm genuinely curious which 
 
 ---
 
-## Email 3: The Full Collection (Day 14)
+## Email 3: The Full Practice (Day 14)
 
-**Subject**: the full collection is here
+**Subject**: the full practice is here
 
-**Preview text**: 50 affirmations. 4 themes. Every card has a reflection prompt.
+**Preview text**: 30 days. Grounding affirmations. Breathwork. Reflection prompts.
 
 ---
 
 Hey,
 
-Two weeks ago you downloaded 7 affirmations. I hope at least one of them has found a permanent spot on your desk or your mirror.
+Two weeks ago you started a 5-day grounding practice. I hope at least one of those words has found a permanent spot on your desk or your mirror.
 
-Today I want to share what's behind those 7.
+Today I want to share what's behind those 5 days.
 
-I spent months writing, testing, and refining a complete collection: **50 Affirmations for the AI Age.**
+I spent months writing, testing, and refining a complete practice: **The Luminous Pulse Practice: 30 Days of Grounding for Uncertain Times.**
 
-It's organized into four themes:
+It's organized into five themes:
 
-**AI-Age Empowerment** — for the moments when you wonder where you fit
-**Career Confidence** — for the days when imposter syndrome meets automation anxiety
-**Morning Motivation** — for starting your day grounded, not scrolling
-**Anxiety Relief** — for the nights when the "what ifs" are loud
+**Remember Who You Are** — for the moments when you wonder where you fit
+**Name the Feeling** — for the days when the anxiety is loud and you need someone to say "I see you"
+**Ground Yourself** — morning practices for starting your day anchored, not rattled
+**You Are Not Alone** — reminders that you are held, even when it doesn't feel like it
+**The World We're Building** — grounded hope for the future you're helping create
 
-Every card has a reflection prompt on the back — not just the affirmation, but a question to help you sit with it. That's the part that makes this more than a card deck. It's a practice.
+Every day has a grounding affirmation, a reflection prompt, a breathwork exercise, and a journaling question. That's the part that makes this more than a card deck. It's a practice. A daily act of coming home to yourself.
 
-**The full collection is $12 right now** (it'll go up to $17 soon).
+**The full practice is $37.**
 
-> **[Get the 50-Card Deck → Link to Gumroad]**
+> **[Get The Luminous Pulse Practice → Link to Kit Commerce product]**
 
-Print them. Cut them. Pin your favorites everywhere. Come back to the deck in 30 days and notice which affirmations hit differently than they did on day one.
+By Day 30, you will have a personal framework for navigating uncertainty with power and presence. Come back to it in a month and notice which affirmations hit differently than they did on Day 1.
 
 That's when you'll know it's working.
 
-Your humanity is your superpower,
+You are held,
 Christie
 
-P.S. — If $12 is tough right now, no pressure at all. The free 7 are yours forever and the weekly affirmations I share are always free. This is here when you're ready.
+P.S. — If $37 is tough right now, no pressure at all. The free 5-day practice is yours forever and the weekly grounding words I share are always free. This is here when you're ready.
 
 ---
 
 ## Email 4: Social Proof (Day 17)
 
-**Subject**: "I didn't think affirmations were for me"
+**Subject**: "I didn't think this kind of thing was for me"
 
-**Preview text**: What I keep hearing from people who tried the deck.
+**Preview text**: What I keep hearing from people who tried the practice.
 
 ---
 
@@ -129,29 +130,29 @@ Hey,
 
 I want to share something I've been hearing a lot:
 
-*"I didn't think affirmations were for me. I thought they were too woo-woo. But these actually make sense because they're about the real world."*
+*"I didn't think affirmations were for me. I thought they were too woo-woo. But these actually name what I'm feeling. They meet me where I am."*
 
-That response keeps coming up — from engineers, PMs, designers, marketers. People who would never describe themselves as "affirmation people."
+That response keeps coming up — from engineers, PMs, designers, marketers, teachers. People who would never describe themselves as "affirmation people."
 
-And I get it. Most affirmation content feels like it was written in a different decade. "I am abundant." "I attract success." Those don't land when you're worried about whether your job exists in two years.
+And I get it. Most affirmation content feels like it was written in a different decade. "I am abundant." "I attract success." Those don't land when you're wondering whether the world you planned for still exists.
 
-That's exactly why I made these different.
+That's exactly why I made this different.
 
-Every affirmation in this deck was written for a specific feeling:
-- The feeling after reading a scary AI headline
+Every grounding word in the practice was written for a specific feeling:
+- The feeling after reading another scary headline
 - The feeling before a meeting where you're not sure you're needed
-- The feeling at 11pm when you're wondering if you should be learning something new
+- The feeling at 11pm when you're scrolling and your chest is tight and you don't know who to talk to about it
 
-These are affirmations for real life. Your life. Right now.
+This is a practice for real life. Your life. Right now.
 
-> **[Get the 50-Card Deck → $12 → Link to Gumroad]**
+> **[Get The Luminous Pulse Practice → $37 → Link to Kit Commerce product]**
 
-If one of the free 7 has already stuck with you, imagine what 50 could do.
+If the free 5 days already changed how you start your morning, imagine what 30 could do.
 
 More soon,
 Christie
 
-P.S. — If you've been using the free cards and have a favorite, I'd love to hear which one. Just reply — every response makes my day.
+P.S. — If you've been using the free practice and have a favorite grounding word, I'd love to hear which one. Just reply — every response makes my day.
 
 ---
 
@@ -165,23 +166,23 @@ P.S. — If you've been using the free cards and have a favorite, I'd love to he
 
 Hey,
 
-Quick note — the launch price for the 50-card affirmation deck ends tomorrow.
+Quick note — the launch price for The Luminous Pulse Practice ends tomorrow.
 
-After that, it goes from $12 to $17.
+After that, it goes from $37 to $47.
 
-I'm not going to write a long email about this. You already know if these affirmations work for you. You've had the free 7 for three weeks.
+I'm not going to write a long email about this. You already know if this practice works for you. You've had the free 5 days for three weeks.
 
-If they've helped, the full collection is the obvious next step. 50 cards. 4 themes. Reflection prompts on every one.
+If they've helped, the full 30-day practice is the obvious next step. Grounding affirmations. Reflection prompts. Breathwork. Journaling questions. A daily practice of coming home to yourself in a world that wants you everywhere else.
 
-> **[Get the deck at $12 before the price goes up → Link to Gumroad]**
+> **[Get the practice at $37 before the price goes up → Link to Kit Commerce product]**
 
-If now's not the right time, that's completely fine. I'll keep showing up in your inbox with free affirmations and real talk about navigating this moment.
+If now's not the right time, that's completely fine. I'll keep showing up in your inbox with free grounding words and the occasional honest story about what it's like to be human in a world that's changing fast.
 
-Either way — your humanity is your superpower. Don't forget it.
+Either way — you are held. Don't forget it.
 
 Christie
 
-P.S. — After this, I won't pitch the deck again for a while. We'll go back to our regular programming: affirmations, reflections, and the occasional honest story about what it's like to be human in the age of AI.
+P.S. — After this, I won't pitch the practice again for a while. We'll go back to our regular programming: grounding words, reflections, and the occasional reminder that your humanity is not the problem. It is the answer.
 
 ---
 
@@ -223,5 +224,4 @@ THEN add to post-purchase sequence
 ## Expected Conversion
 
 - 3-5% of nurture subscribers convert to paid
-- At $12, every 100 subscribers = $36-60 revenue
-- At $17, every 100 subscribers = $51-85 revenue
+- At $37, every 100 subscribers = $111-185 revenue

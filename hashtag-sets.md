@@ -1,123 +1,125 @@
 # Hashtag Sets — Luminous Pulse
 
-> **Usage**: Rotate sets across posts. Never use the same set twice in a row.
-> **Strategy**: Mix of sizes — large (1M+) for reach, medium (100K-1M) for discovery, small (<100K) for ranking.
-> **Cap**: 20-30 per post. Instagram allows 30 max. Use all 30 on quote cards, 20-25 on Reels.
-> **Placement**: First comment (not caption) to keep captions clean.
+> **Usage**: 3-5 hashtags per post. Place in the caption (not first comment).
+> **Strategy**: Niche, specific hashtags for algorithm categorization. Quality over quantity.
+> **Core rule**: Include 1-2 from Set 1 (Brand Core) on every single post.
+> **Target audience**: Displaced tech workers, career-disrupted professionals
+> **2026 best practice**: Instagram recommends 3-5 hashtags. More can harm reach.
 
 ---
 
-## Set 1: AI-Age Empowerment
+## Set 1: Brand Core (Use 1-2 on EVERY Post)
 
-*Best for: AI-specific affirmation posts, "things AI can't do" content*
-
-```
-#aiaffirmations #techaffirmations #humanovertech #aiage #aianxiety
-#futureofwork #humanfirst #techlife #aiandhumans #artificialintelligence
-#affirmationsoftheday #positiveaffirmations #dailyaffirmation #affirmationsdaily #selfaffirmation
-#humanconnection #humanexperience #humansofearth #beinghumantogether #humanspirit
-#mindsetshift #empowermentquotes #knowyourworth #youareenough #innerstrength
-#techworker #workingintechlife #aifuture #techculture #humanitymatters
-```
-
----
-
-## Set 2: Career Confidence
-
-*Best for: Career-focused affirmations, workplace content, professional empowerment*
+*Build recognition and own these terms over time.*
 
 ```
-#careerconfidence #professionalwomen #careeradvice #workplacewellness #careermindset
-#worklifebalance #corporatelife #techindustry #womenintech #futureofwork
-#leadershipmindset #emotionalintelligence #professionaldevelopment #careergrowth #workplacementalhealth
-#affirmationsoftheday #positiveaffirmations #dailyaffirmation #morningaffirmation #affirmationquotes
-#impostersyndromeisreal #youbelonghere #trustyourself #confidencebuilding #selfbelief
-#productivitymindset #careerchange #workculture #mindfulleadership #purposedriven
+#luminouspulse #presenceoverpanic #groundedoptimism
 ```
-
----
-
-## Set 3: Morning Motivation
-
-*Best for: Morning posts (6-9am), motivational quote cards, "start your day" content*
-
-```
-#morningaffirmation #morningmotivation #morningroutine #morningmindset #starttheday
-#dailyaffirmation #affirmationsoftheday #positiveaffirmations #morningmantra #affirmationsdaily
-#mindfulness #intentionalliving #presentmoment #groundedliving #slowliving
-#motivationalquotes #quotestoliveby #quoteoftheday #wordsofwisdom #dailymotivation
-#selfcareeveryday #mentalwellness #innerpeace #mindsetmatters #personalgrowth
-#morninginspiration #riseandshine #newdaynewstart #todayisagoodday #morningvibes
-```
-
----
-
-## Set 4: Anxiety Relief
-
-*Best for: Anxiety-focused content, "permission slip" posts, reassurance content*
-
-```
-#anxietyrelief #anxietyawareness #aianxiety #techanxiety #anxietysupport
-#mentalhealth #mentalhealthmatters #mentalhealthawareness #mentalhealthadvocate #breakthestigma
-#anxietyhelp #copingskills #groundingtechniques #calmyourmind #breathe
-#affirmationsforanxiety #positiveaffirmations #healingaffirmations #dailyaffirmation #selfcompassion
-#itsokaytonotbeokay #youarenotalone #mentalhealthjourney #selfcaretips #emotionalhealth
-#therapyiscool #mindfulmoments #stressrelief #peacefulmind #lettinggo
-```
-
----
-
-## Set 5: Carousel & Save-Worthy
-
-*Best for: Carousel posts, high-save content, educational/list posts*
-
-```
-#savethispost #screenshotthis #sharethiswithafriend #saveforlater #bookmarkthis
-#carouselpost #swiperightforgoodvibes #swiperight #instagramcarousel #infographic
-#affirmationcards #affirmationsdaily #positiveaffirmations #dailyaffirmation #selfaffirmation
-#personaldevelopment #growthmindset #selfimprovement #lifelessons #mindsetshift
-#humanovertech #aiaffirmations #futureofwork #techlife #aiage
-#motivationmonday #wednesdaywisdom #feelgoodquotes #wordsofencouragement #inspirationdaily
-```
-
----
-
-## Niche Hashtags to Own
-
-*Use these on EVERY post to build ranking:*
 
 | Hashtag | Competition | Our Goal |
 |---------|------------|----------|
-| #aiaffirmations | Empty/New | Own #1 position |
-| #techaffirmations | Empty/New | Own #1 position |
-| #humanovertech | Empty/New | Own #1 position |
-| #aianxiety | Low (<5K) | Top 10 |
-| #techanxiety | Low (<2K) | Top 10 |
-| #aiage | Low (<10K) | Top 20 |
+| #luminouspulse | Brand new | Own completely |
+| #presenceoverpanic | Very low | Own #1 position |
+| #groundedoptimism | Very low | Own #1 position |
 
-**Include at least 2-3 of these niche tags on every single post.**
+---
+
+## Set 2: Healing & Grounding
+
+*Best for: "Name the Feeling" and "Ground Yourself" posts — anxiety acknowledgment, practices, nervous system content*
+
+```
+#anxietyhealing #nervoussystemregulation #groundingpractice #healingcommunity
+```
+
+---
+
+## Set 3: Human Identity & Worth
+
+*Best for: "Remember Who You Are" and "You Are Not Alone" posts — identity beyond job title, worth beyond output*
+
+```
+#humanconnection #yourenotalone #collectivehealing #humanfirst
+```
+
+---
+
+## Set 4: Future & Hope
+
+*Best for: "The World We're Building" posts — vision, hope, grounded optimism*
+
+```
+#groundedhope #hopefulrealism #futureanxiety #peaceinuncertainty
+```
+
+---
+
+## Set 5: Tech Career & Discovery
+
+*Best for: Reaching displaced tech workers directly. Use on posts that name the career disruption experience.*
+
+```
+#techlayoffs #careerchange #layoffrecovery #techworkers #careeridentity
+```
+
+---
+
+## Set 6: Broad Discovery & Reach
+
+*Best for: Broadening reach on high-performing posts. Rotate alongside core set.*
+
+```
+#anxietyrelief #healingjourney #morningpractice #innerpeace #dailyaffirmation
+```
 
 ---
 
 ## Hashtag Rotation Schedule
 
-| Day | Post Type | Hashtag Set |
-|-----|-----------|-------------|
-| Monday | Quote card | Set 3 (Morning Motivation) |
-| Tuesday | Career affirmation | Set 2 (Career Confidence) |
-| Wednesday | Carousel | Set 5 (Carousel & Save-Worthy) |
-| Thursday | Quote card | Set 1 (AI-Age Empowerment) |
-| Friday | Reel | Set 3 (Morning Motivation) |
-| Saturday | Anxiety/permission | Set 4 (Anxiety Relief) |
-| Sunday | Carousel or quote | Set 1 or Set 5 (alternate) |
+| Day | Post Pillar | Hashtag Sets |
+|-----|-------------|-------------|
+| Monday | Name the Feeling | Set 1 (1-2) + Set 2 (2-3) |
+| Tuesday | Remember Who You Are | Set 1 (1-2) + Set 3 (2-3) |
+| Wednesday | Ground Yourself | Set 1 (1-2) + Set 2 (1) + Set 5 (1-2) |
+| Thursday | You Are Not Alone | Set 1 (1-2) + Set 3 (1) + Set 5 (1-2) |
+| Friday | The World We're Building | Set 1 (1-2) + Set 4 (2-3) |
 
 ---
 
 ## Rules
 
-1. **Always include 2-3 niche hashtags** (#aiaffirmations, #techaffirmations, #humanovertech) regardless of set
-2. **Rotate sets** — never use the same set on consecutive posts
-3. **Post hashtags in first comment**, not in the caption
-4. **Update monthly** — swap underperforming tags for trending ones
-5. **Track which sets drive the most reach** via Instagram Insights
-6. **Remove any hashtag that gets shadowbanned** (check via Instagram search)
+1. **Always include 1-2 brand core hashtags** (#luminouspulse + #presenceoverpanic or #groundedoptimism)
+2. **Place hashtags in the caption**, not in comments (2026 algorithm change)
+3. **3-5 total hashtags per post** — never more
+4. **Rotate secondary sets** — don't use the same combination on consecutive posts
+5. **Use Set 5 (Tech Career) at least 2x/week** — this is how our target audience finds us
+6. **Use Set 6 sparingly** — only on posts with strong early engagement to amplify reach
+7. **Update monthly** — swap underperforming tags for trending ones via Metricool analytics
+
+---
+
+## Hashtags to Avoid
+
+| Hashtag | Why |
+|---------|-----|
+| #aiaffirmations | Sounds like pro-AI content, wrong positioning |
+| #techaffirmations | Too narrow, tech-coded in the wrong way |
+| #humanovertech | Oppositional framing, keeps AI as protagonist |
+| #positivevibesonly | Signals toxic positivity |
+| #goodvibes | Too generic, passive audience |
+| #manifestation | Different audience, New Age coded |
+| #selfcare | Oversaturated, algorithm ignores it |
+| #learntocode | Dismissive, "just upskill" energy |
+| #hustleculture | Productivity culture is part of the wound |
+| #ai / #artificialintelligence | Attracts tech/news audience, not healing audience |
+
+---
+
+## Hashtags to Create and Own Over Time
+
+- `#presenceoverpanic` — THE brand philosophy hashtag
+- `#stillhuman` — simple, powerful, shareable
+- `#youarenotyourjobtitle` — directly speaks to the identity crisis
+- `#comehometoyourself` — sanctuary language
+- `#displacedhuman` — bold, specific, ownable
+- `#beyondthetitle` — career identity healing

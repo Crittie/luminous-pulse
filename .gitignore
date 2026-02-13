@@ -6,6 +6,9 @@ __pycache__/
 # Generated PDFs (keep PNGs for the site, regenerate PDFs from scripts)
 *.pdf
 
+# Environment / secrets
+.env
+
 # OS
 .DS_Store
 
