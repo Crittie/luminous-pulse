@@ -59,10 +59,11 @@
 | Draft 3-email welcome sequence for Kit | Claude Code | 1 | Done | Day 14-18 | Email | High |
 | Write affirmation card deck content (free PDF) | Claude Code | 1 | Done | Day 12-16 | Product | High |
 | Seed Instagram grid with first 6-9 posts | You | 2 | Not Started | Day 19-20 | Content | High |
-| Set up Kit (ConvertKit) free tier | You | 2 | Not Started | Day 19 | Email | High |
-| Load welcome email sequence into Kit | You | 2 | Not Started | Day 19-20 | Email | High |
+| Set up Kit (ConvertKit) free tier | You | 2 | Done | Day 19 | Email | High |
+| Load welcome email sequence into Kit | You | 2 | Done | Day 19-20 | Email | High |
 | Create free lead magnet PDF | You | 2 | Done | Day 19-20 | Product | High |
-| Set up Gumroad product page ($0 lead magnet) | You | 2 | Not Started | Day 20 | Product | High |
+| Set up Gumroad product page ($0 lead magnet) | You | 2 | In Progress | Day 20 | Product | High |
+| Connect Gumroad → Kit via Zapier | You | 2 | Not Started | Day 20-21 | Tech | Medium |
 | Connect link-in-bio to all destinations | You | 2 | Not Started | Day 20-21 | Tech | High |
 | Test entire funnel end-to-end | You | 2 | Not Started | Day 21 | Tech | High |
 | Set up automated posting schedule (Buffer) | OpenClaw | 2 | Not Started | Day 19-20 | Marketing | High |
@@ -91,7 +92,7 @@
 | Create carousel copy for themed collections | Claude Code | 3 | Not Started | Day 22-51 | Content | Medium |
 | Draft weekly email newsletter content | Claude Code | 3 | Not Started | Day 22-51 | Email | High |
 | Write scripts for IG Lives and Reels | Claude Code | 3 | Done | Day 22-51 | Content | High |
-| Create paid affirmation card deck PDF ($9-17) | You | 4 | Not Started | Day 52-60 | Product | High |
+| Create paid affirmation card deck PDF ($9-17) | You | 4 | Done | Day 52-60 | Product | High |
 | Film talking-head Reels (personal story) | You | 4 | Not Started | Day 52-65 | Content | High |
 | Launch 7-day affirmation challenge | You | 4 | Not Started | Day 60-67 | Marketing | High |
 | DM outreach to 20 micro-influencers | You | 4 | Not Started | Day 55-75 | Marketing | High |
@@ -103,9 +104,9 @@
 | Expand to Pinterest (5-15 pins/day) | OpenClaw | 4 | Not Started | Day 55-81 | Marketing | Medium |
 | Generate weekly analytics reports | OpenClaw | 4 | Not Started | Day 52-81 | Marketing | High |
 | Draft influencer outreach DM templates | OpenClaw | 4 | Not Started | Day 52-55 | Marketing | High |
-| Write affirmation card deck content (paid) | Claude Code | 4 | Not Started | Day 52-58 | Product | High |
-| Write Etsy listing copy (SEO-optimized) | Claude Code | 4 | Not Started | Day 55-60 | Product | High |
-| Write Gumroad product page copy (paid) | Claude Code | 4 | Not Started | Day 55-60 | Product | High |
+| Write affirmation card deck content (paid) | Claude Code | 4 | Done | Day 52-58 | Product | High |
+| Write Etsy listing copy (SEO-optimized) | Claude Code | 4 | Done | Day 55-60 | Product | High |
+| Write Gumroad product page copy (paid) | Claude Code | 4 | Done | Day 55-60 | Product | High |
 | Draft 5-email nurture sequence (conversion) | Claude Code | 4 | Not Started | Day 58-65 | Email | High |
 | Write SEO blog posts | Claude Code | 4 | Not Started | Day 60-81 | Content | Medium |
 | Launch signature product ($27-47) | You | 5 | Not Started | Day 82-90 | Product | High |
@@ -132,11 +133,11 @@
 |-------|-------|------|-------------|-------------|
 | 0     | 20    | 18   | 0           | 2           |
 | 1     | 17    | 12   | 0           | 5           |
-| 2     | 10    | 4    | 0           | 6           |
+| 2     | 11    | 6    | 1           | 4           |
 | 3     | 16    | 1    | 0           | 15          |
-| 4     | 12    | 0    | 0           | 12          |
+| 4     | 12    | 4    | 0           | 8           |
 | 5     | 12    | 0    | 0           | 12          |
-| **Total** | **87** | **35** | **0** | **52** |
+| **Total** | **88** | **41** | **1** | **46** |
 
 ### Phase 0 Remaining (1 item)
 - Set up link-in-bio tool (You)
