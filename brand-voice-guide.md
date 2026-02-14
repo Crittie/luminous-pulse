@@ -34,11 +34,19 @@ We sit in the middle — never preachy, never dismissive, never woo. We're the v
 
 ---
 
+## Formatting Rules
+
+- **Use lowercase for all brand copy.** Subject lines, captions, emails, bios, CTAs, headlines — all lowercase. This is intentional. It creates intimacy, softness, and accessibility. It says: *this is a conversation, not a broadcast.*
+- The only exceptions: "I" (first person pronoun) and proper nouns (Christie, Luminous Pulse, Kit, Instagram).
+- Affirmations follow the same rule — lowercase unless starting with "I".
+
+---
+
 ## Language Dos
 
 | Do | Example |
 |----|---------|
-| Use "you" directly | "You are irreplaceable." |
+| Use "you" directly | "you are irreplaceable." |
 | Acknowledge the fear first | "It's okay to feel uncertain. That feeling is real." |
 | Use present tense | "I am held. I am here. I am enough." |
 | Use sensory/embodied language | "Feel the ground beneath your feet. Breathe." |

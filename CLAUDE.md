@@ -2,7 +2,7 @@
 
 ## Current Status: Pre-Launch (Content Launch Feb 17, 2026 — Lunar New Year)
 
-**Last Updated:** February 13, 2026
+**Last Updated:** February 14, 2026
 
 ---
 
@@ -56,15 +56,25 @@
 ## Revenue Funnel
 
 ```
-Free Lead Magnet (5-Day Practice) → Kit form email capture
-    ↓ instant
-Incentive email (PDF delivery)
-    ↓ 2 days
-Welcome Email 1: "The 2-minute practice that actually works"
-    ↓ 3 days
-Welcome Email 2: "The night I almost didn't build this" (soft pitch → $37)
-    ↓
-Nurture sequence (5 emails over 14 days) → conversion
+Day 0:  Free Lead Magnet (5-Day Practice) → Kit form email capture
+        Incentive email (PDF delivery)
+        Thank-you page: $9 Emergency Grounding Kit offer (tripwire)
+   ↓ 2 days
+Day 2:  Welcome Email 1: "the 2-minute practice that actually works" (pure value)
+   ↓ 3 days
+Day 5:  Welcome Email 2: "how's the practice going?" (check-in + $9 tripwire soft pitch)
+   ↓ 2 days
+Day 7:  Nurture Email 1: "what I wish someone told me about this feeling" (origin story)
+   ↓ 3 days
+Day 10: Nurture Email 2: "3 grounding words for your week" (value + tease)
+   ↓ 4 days
+Day 14: Nurture Email 3: "the full practice is here" (main $37 pitch)
+   ↓ 3 days
+Day 17: Nurture Email 4: "I didn't think this kind of thing was for me" (social proof)
+   ↓ 4 days
+Day 21: Nurture Email 5: "last day at this price" (urgency → $37 before $47)
+   ↓
+Weekly newsletter begins
 ```
 
 ## Key Files
@@ -79,8 +89,9 @@ Nurture sequence (5 emails over 14 days) → conversion
 - `healing-practices-reference-guide.md` — 55+ therapeutic/spiritual techniques (1,500 lines) — shapes content, products, app, quizzes
 
 ### Email & Sales Copy
-- `welcome-email-sequence.md` — 2-email welcome sequence for Kit
-- `email-nurture-sequence.md` — 5-email conversion sequence
+- `marketing/lead-magnet/incentive-email-copy.md` — Kit incentive email (instant PDF delivery on signup)
+- `welcome-email-sequence.md` — 2-email welcome sequence for Kit (updated Feb 14 — brand reframe + tripwire integration)
+- `email-nurture-sequence.md` — 5-email conversion sequence (updated Feb 14 — brand reframe + tripwire integration)
 - `kit-product-description.md` — Free lead magnet Kit copy
 - `kit-paid-product-description.md` — $37 paid product Kit Commerce copy
 - `kit-tripwire-product-description.md` — $9 tripwire Kit copy
@@ -156,6 +167,12 @@ Nurture sequence (5 emails over 14 days) → conversion
 - Influencer outreach templates
 - Healing practices reference guide (55+ techniques)
 
+### Email Sequences — UPDATED FEB 14
+- Incentive email written (instant PDF delivery) — `marketing/lead-magnet/incentive-email-copy.md`
+- Welcome sequence rewritten: removed origin story overlap, added $9 tripwire integration, applied lowercase brand voice
+- Nurture sequence rewritten: applied lowercase brand voice, added tripwire-buyer bridge in Email 4, updated subscriber flow, added tripwire-buyer automation rules
+- Full Day 0-21 subscriber flow documented across both sequence files
+
 ### What Christie Still Needs To Do Before Feb 17
 - Upload sanctuary logo as IG profile photo
 - Set up Beacons link-in-bio
@@ -165,8 +182,13 @@ Nurture sequence (5 emails over 14 days) → conversion
 - Create 8 carousel posts (copy in `carousel-slide-copy.md`)
 - Design Story Highlight covers
 - Seed IG grid with first 6-9 posts
-- Finish Kit setup: form → PDF delivery → welcome sequence → nurture sequence
-- Test full funnel: Beacons → Kit form → PDF → welcome emails
+- Finish Kit setup: form → incentive email (PDF delivery) → welcome sequence → nurture sequence
+- Paste incentive email copy into Kit form settings (from `marketing/lead-magnet/incentive-email-copy.md`)
+- Paste welcome sequence into Kit (from `welcome-email-sequence.md`)
+- Paste nurture sequence into Kit (from `email-nurture-sequence.md`)
+- Set up Kit tags: `welcome-sequence-complete`, `nurture-sequence-complete`, `paid-customer`, `interested-paid-product`, `tripwire-buyer`, `interested-tripwire`
+- Set up Kit automation rules (see bottom of each sequence file)
+- Test full funnel: Beacons → Kit form → PDF → welcome emails → nurture emails
 - Connect Beacons to Kit form, website, IG Highlights
 
 ## Future Product Ideas (from healing-practices-reference-guide.md)
@@ -181,6 +203,7 @@ Nurture sequence (5 emails over 14 days) → conversion
 
 ## Notes for Claude
 
+- **Use lowercase for all brand copy** — captions, emails, subject lines, bios, CTAs, headlines. Lowercase is the brand voice. Only exceptions: "I" and proper nouns (Christie, Luminous Pulse, Kit, Instagram).
 - Instagram handle is @luminouspulse.co (not @luminouspulse)
 - "Workers" not "tech workers" — intentionally broad to include all professions
 - "Anxious" is the feeling, "displaced" is the identity — both matter
