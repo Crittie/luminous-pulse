@@ -418,5 +418,31 @@
         <a href="https://instagram.com/luminouspulse.co" target="_blank" rel="noopener">@luminouspulse.co</a>
     </footer>
 
+    <script>
+        // Redirect to tripwire after Kit form submission success
+        (function() {
+            var tripwireUrl = 'https://luminous-pulse.kit.com/products/the-emergency-grounding-kit';
+            var observer = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    mutation.addedNodes.forEach(function(node) {
+                        if (node.nodeType === 1 && (
+                            node.classList.contains('formkit-alert-success') ||
+                            node.querySelector && node.querySelector('.formkit-alert-success')
+                        )) {
+                            setTimeout(function() {
+                                window.location.href = tripwireUrl;
+                            }, 300);
+                        }
+                    });
+                });
+            });
+
+            var form = document.querySelector('.formkit-form');
+            if (form) {
+                observer.observe(form, { childList: true, subtree: true });
+            }
+        })();
+    </script>
+
 </body>
 </html>
