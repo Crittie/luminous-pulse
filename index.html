@@ -378,7 +378,7 @@
         }
     </style>
 
-    <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+    <!-- Kit JS removed — we handle form submission + redirect ourselves -->
 </head>
 <body>
     <!-- Animated background -->
@@ -419,34 +419,29 @@
     </footer>
 
     <script>
-        // Intercept Kit form submission, send via fetch, then redirect to tripwire
         (function() {
             var tripwireUrl = 'https://luminous-pulse.kit.com/products/the-emergency-grounding-kit';
+            var form = document.querySelector('.formkit-form');
+            if (!form) return;
 
-            document.addEventListener('submit', function(e) {
-                var form = e.target;
-                if (!form.classList.contains('formkit-form')) return;
-
+            form.addEventListener('submit', function(e) {
                 e.preventDefault();
-                e.stopImmediatePropagation();
 
                 var email = form.querySelector('input[name="email_address"]');
                 if (!email || !email.value) return;
 
-                var submitBtn = form.querySelector('.formkit-submit');
-                if (submitBtn) submitBtn.style.opacity = '0.6';
+                var btn = form.querySelector('.formkit-submit span');
+                if (btn) btn.textContent = 'sending...';
 
-                fetch('https://app.kit.com/forms/9081984/subscriptions', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                    body: 'email_address=' + encodeURIComponent(email.value),
-                    mode: 'no-cors'
-                }).then(function() {
-                    window.location.href = tripwireUrl;
-                }).catch(function() {
-                    window.location.href = tripwireUrl;
-                });
-            }, true);
+                var formData = new FormData();
+                formData.append('email_address', email.value);
+
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', 'https://app.kit.com/forms/9081984/subscriptions', true);
+                xhr.onload = function() { window.location.href = tripwireUrl; };
+                xhr.onerror = function() { window.location.href = tripwireUrl; };
+                xhr.send(formData);
+            });
         })();
     </script>
 
