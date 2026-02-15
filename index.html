@@ -419,28 +419,34 @@
     </footer>
 
     <script>
-        // Redirect to tripwire after Kit form submission success
+        // Intercept Kit form submission, send via fetch, then redirect to tripwire
         (function() {
             var tripwireUrl = 'https://luminous-pulse.kit.com/products/the-emergency-grounding-kit';
-            var observer = new MutationObserver(function(mutations) {
-                mutations.forEach(function(mutation) {
-                    mutation.addedNodes.forEach(function(node) {
-                        if (node.nodeType === 1 && (
-                            node.classList.contains('formkit-alert-success') ||
-                            node.querySelector && node.querySelector('.formkit-alert-success')
-                        )) {
-                            setTimeout(function() {
-                                window.location.href = tripwireUrl;
-                            }, 300);
-                        }
-                    });
-                });
-            });
 
-            var form = document.querySelector('.formkit-form');
-            if (form) {
-                observer.observe(form, { childList: true, subtree: true });
-            }
+            document.addEventListener('submit', function(e) {
+                var form = e.target;
+                if (!form.classList.contains('formkit-form')) return;
+
+                e.preventDefault();
+                e.stopImmediatePropagation();
+
+                var email = form.querySelector('input[name="email_address"]');
+                if (!email || !email.value) return;
+
+                var submitBtn = form.querySelector('.formkit-submit');
+                if (submitBtn) submitBtn.style.opacity = '0.6';
+
+                fetch('https://app.kit.com/forms/9081984/subscriptions', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: 'email_address=' + encodeURIComponent(email.value),
+                    mode: 'no-cors'
+                }).then(function() {
+                    window.location.href = tripwireUrl;
+                }).catch(function() {
+                    window.location.href = tripwireUrl;
+                });
+            }, true);
         })();
     </script>
 
