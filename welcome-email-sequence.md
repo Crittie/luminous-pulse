@@ -1,105 +1,112 @@
 # 2-Email Welcome Sequence — Kit (ConvertKit)
 
 > **Trigger**: New subscriber downloads the free "5-Day Grounding Practice"
-> **Goal**: Build trust, deliver value, introduce paid product by email 2
+> **Goal**: Build trust, deliver value, introduce the Emergency Grounding Kit ($9 tripwire) by email 2
 > **Tone**: Personal letter energy. Warm, grounded, tender. Like writing to one person who needs to be seen.
 > **From name**: Christie at Luminous Pulse
+> **Lowercase rule**: All copy is lowercase per brand voice guide (except "I" and proper nouns)
 >
-> **Note**: The PDF is delivered instantly via Kit's incentive email on the form (separate from this sequence). This sequence starts after that delivery.
+> **Note**: The PDF is delivered instantly via Kit's incentive email on the form (separate from this sequence). The $9 Emergency Grounding Kit is also offered on the Kit thank-you page. This sequence starts after that delivery.
+>
+> **Important**: The meeting story (the origin story) is NOT told here — it lives in Nurture Email 1 (Day 7). This keeps the welcome sequence focused on value and relationship, and saves the emotional anchor for the nurture sequence where it drives conversion.
 
 ---
 
-## Email 1: The Practice (Day 2)
+## Email 1: the practice (Day 2)
 
 **Subject line options** (A/B test):
-- A: The 2-minute practice that actually works
-- B: Why reading affirmations doesn't work (and what does)
+- A: the 2-minute practice that actually works
+- B: why reading affirmations doesn't work (and what does)
 
-**Preview text**: Most people read affirmations wrong. Here's the fix.
+**Preview text**: most people read affirmations wrong. here's the fix.
 
 ---
 
-Hey,
+hey,
 
-Here's something no one tells you about affirmations:
+here's something no one tells you about affirmations:
 
-Reading them doesn't do much.
+reading them doesn't do much.
 
-I know — that feels like a weird thing to say from someone who just gave you a grounding practice. But hear me out.
+I know — that feels like a weird thing to say from someone who just gave you a grounding practice. but hear me out.
 
-When you *read* an affirmation, your brain treats it like information. It files it away and moves on.
+when you *read* an affirmation, your brain treats it like information. it files it away and moves on.
 
-When you *speak* an affirmation out loud, something different happens. Your brain hears your own voice making a declaration. It starts to take it more seriously. It's the difference between reading "I am held" and hearing yourself say it in your kitchen at 7am.
+when you *speak* an affirmation out loud, something different happens. your brain hears your own voice making a declaration. it starts to take it more seriously. it's the difference between reading "I am held" and hearing yourself say it in your kitchen at 7am.
 
-**The 2-minute practice:**
+**the 2-minute practice:**
 
-1. Pick one affirmation from the practice
-2. Stand up (seriously — posture matters)
-3. Take one deep breath
-4. Say the affirmation out loud, three times, slowly
-5. Sit with the feeling for 30 seconds
+1. pick one affirmation from the practice
+2. stand up (seriously — posture matters)
+3. take one deep breath
+4. say the affirmation out loud, three times, slowly
+5. sit with the feeling for 30 seconds
 
-That's it. Two minutes.
+that's it. two minutes.
 
-Try it tomorrow morning with this one:
+try it tomorrow morning with this one:
 
-> *"There is something in me that change cannot touch. Today, I remember it."*
+> *"there is something in me that change cannot touch. today, I remember it."*
 
-Say it like you mean it — even if you don't yet. Especially if you don't yet.
+say it like you mean it — even if you don't yet. especially if you don't yet.
 
-The feeling follows the words. Not the other way around.
+the feeling follows the words. not the other way around.
 
-More soon,
+more soon,
 Christie
 
-P.S. — In my next email, I'll tell you about the extended practice — 30 days of grounding for uncertain times. It's the thing I'm most proud of building.
+P.S. — you're on Day 2 of the practice now. by Day 5, you'll start to notice something shift. stay with it.
 
 ---
 
-## Email 2: The Story + Soft Pitch (Day 5)
+## Email 2: the check-in + Emergency Kit (Day 5)
 
 **Subject line options** (A/B test):
-- A: The night I almost didn't build this
-- B: What happened after the meeting that changed everything
+- A: how's the practice going?
+- B: which grounding word stuck?
 
-**Preview text**: The honest story behind this project — and what's next.
+**Preview text**: a quick check-in — and something for the harder days.
 
 ---
 
-Hey,
+hey,
 
-I want to tell you a quick story.
+today is Day 5 of your grounding practice. the last one.
 
-Last year, I was in a meeting where someone casually said, "We'll just have AI do that part." They were talking about the part of the project I was most proud of.
+I hope at least one of those words has found a permanent spot — your desk, your mirror, your phone wallpaper. the practice works best when the words keep finding you throughout the day, not just during the morning 2 minutes.
 
-I didn't say anything in the moment. But that night, I sat with this heavy, unnamed feeling — like my skills had an expiration date no one told me about.
+so — which one stuck?
 
-And here's what I figured out over the next few weeks: the spiral wasn't about AI. It was about identity. I had tied my worth to my output — and when a machine matched my output, I didn't know who I was without it.
+for most people, it's one of these:
 
-That's the real crisis nobody talks about. It's not a skills gap. It's an identity gap.
+> *"I am whole before I open my laptop."*
 
-The grounding words I write aren't about ignoring AI or pretending it doesn't matter. They're about **coming home to what's true about you underneath what you produce.** Your ability to love, to care, to sit with someone in silence and make them feel less alone. The stuff that no update, no model, no algorithm will ever touch.
+> *"I am not broken for feeling anxious. I am awake in a world that is changing fast."*
 
-That's what this is about. Not fighting technology. Not pretending everything is fine. Just... remembering.
+> *"there is something in me that change cannot touch."*
 
-If the 5-day practice helped you find even a moment of stillness, I built something deeper:
+whatever yours is — keep it close. say it when the noise gets loud. it's yours now.
 
-**The Luminous Pulse Practice: 30 Days of Grounding for Uncertain Times**
+**one more thing.**
 
-> **[Link to Kit Commerce product page]**
+the 5-day practice is a daily rhythm. but some days don't follow a rhythm. some days the news hits, or the meeting happens, or the 2am spiral starts — and you need something *right now*.
 
-It's $37 — 30 days of grounding affirmations, reflection prompts, breathwork, and journaling questions designed to move you from anxiety to agency. From fear to grounded hope.
+I made something for those days.
 
-But honestly? If the free practice is enough for you, I'm happy. This project started because I needed these words. If even one of them landed for you, that's the whole point.
+**the Emergency Grounding Kit** — 10 emergency grounding cards written for the specific moments that knock you sideways. the Slack notification. the "what are you doing next?" question. the LinkedIn scroll at midnight. plus a breathwork script and a permission slip for the hardest days.
 
-Either way, I'll keep showing up in your inbox with more grounding words, more real talk about navigating this moment, and the occasional reminder that your humanity is not the problem — it is the answer.
+it's $9. think of it as a first-aid kit for your nervous system.
 
-Thanks for being here.
+> **[get the Emergency Grounding Kit — $9 →]** *(link to Kit Commerce product)*
 
-You are held,
+if you already grabbed it from the thank-you page — you're all set. and if now's not the right time, that's completely fine. the free practice is yours forever.
+
+either way, I'll keep showing up with more grounding words, more honest reflections, and the occasional reminder that you are not carrying this alone.
+
+you are held,
 Christie
 
-P.S. — If the free practice helped, I'd love to hear which grounding word stuck. Just reply to this email. I read every response.
+P.S. — reply and tell me which grounding word stuck. I read every response, and it genuinely helps me know what resonates.
 
 ---
 
@@ -110,23 +117,28 @@ P.S. — If the free practice helped, I'd love to hear which grounding word stuc
 | Delay after signup | Email 1: 2 days |
 | Delay after Email 1 | Email 2: 3 days |
 | Tag on complete | `welcome-sequence-complete` |
-| Tag if clicks paid link | `interested-paid-product` |
-| Next sequence | Weekly newsletter (starts Day 22 of launch) |
+| Tag if clicks tripwire link | `interested-tripwire` |
+| Tag if purchases tripwire | `tripwire-buyer` |
+| Next sequence | Nurture sequence (triggers 2 days after welcome-sequence-complete, if NOT `paid-customer`) |
 
 ## Subscriber Flow
 
 ```
-Subscribe → Instant incentive email (PDF delivery, handled by Kit form)
+Subscribe → Instant incentive email (PDF delivery via Kit form)
+         → Thank-you page: $9 Emergency Grounding Kit offer (tripwire)
     ↓ 2 days
-Email 1: "The 2-minute practice that actually works"
+Email 1: "the 2-minute practice that actually works" (pure value)
     ↓ 3 days
-Email 2: "The night I almost didn't build this" (soft pitch)
+Email 2: "how's the practice going?" (check-in + $9 tripwire soft pitch)
     ↓
-Tag: welcome-sequence-complete → enters weekly newsletter
+Tag: welcome-sequence-complete
+    ↓ 2 days
+Nurture sequence begins (5 emails: story → value → $37 pitch → proof → urgency)
 ```
 
 ## Metrics to Track
 
 - **Incentive email**: Delivery rate, PDF download clicks
+- **Thank-you page tripwire**: Conversion rate (target: 5-10% of new subscribers)
 - **Email 1**: Open rate (target: 45%+), reply rate
-- **Email 2**: Open rate (target: 40%+), click rate on product link, conversion rate (target: 3-5%)
+- **Email 2**: Open rate (target: 40%+), click rate on tripwire link, reply rate ("which word stuck?")

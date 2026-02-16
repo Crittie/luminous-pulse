@@ -2,7 +2,7 @@
 
 ## Current Status: Pre-Launch (Content Launch Feb 17, 2026 — Lunar New Year)
 
-**Last Updated:** February 14, 2026
+**Last Updated:** February 16, 2026
 
 ---
 
@@ -173,23 +173,29 @@ Weekly newsletter begins
 - Nurture sequence rewritten: applied lowercase brand voice, added tripwire-buyer bridge in Email 4, updated subscriber flow, added tripwire-buyer automation rules
 - Full Day 0-21 subscriber flow documented across both sequence files
 
+### Kit Setup — DONE FEB 16
+- Kit form live (ID 9081984) with auto-confirm enabled
+- Incentive email configured with PDF upload (5-Day Grounding Practice)
+- Welcome sequence loaded (2 emails: Day 2, Day 5)
+- Nurture sequence loaded (5 emails: Day 7, 10, 14, 17, 21)
+- 6 tags created: `welcome-sequence-complete`, `nurture-sequence-complete`, `paid-customer`, `interested-paid-product`, `tripwire-buyer`, `interested-tripwire`
+- 7 automation rules configured (sequence triggers, exit conditions, purchase tags)
+- $9 Emergency Grounding Kit live on Kit Commerce (`Emergency-Grounding-Kit.pdf`, 15 pages)
+- $37 Luminous Pulse Practice live on Kit Commerce (`30-Day-Luminous-Pulse-Practice.pdf`, 39 pages)
+- Website form submits via custom JS (Kit JS removed — was hijacking redirect)
+- Form redirects to $9 tripwire thank-you page after submission
+- Full funnel tested: form → tripwire redirect → confirmed subscriber → incentive email + PDF
+
 ### What Christie Still Needs To Do Before Feb 17
 - Upload sanctuary logo as IG profile photo
 - Set up Beacons link-in-bio
+- Connect Beacons to Kit form, website, IG Highlights
 - Film 6-8 Reels (scripts in `reel-and-live-scripts.md`)
 - Design 5-8 Canva templates (navy backgrounds, amber/blue accents)
 - Create 30 static quote posts from templates
 - Create 8 carousel posts (copy in `carousel-slide-copy.md`)
 - Design Story Highlight covers
 - Seed IG grid with first 6-9 posts
-- Finish Kit setup: form → incentive email (PDF delivery) → welcome sequence → nurture sequence
-- Paste incentive email copy into Kit form settings (from `marketing/lead-magnet/incentive-email-copy.md`)
-- Paste welcome sequence into Kit (from `welcome-email-sequence.md`)
-- Paste nurture sequence into Kit (from `email-nurture-sequence.md`)
-- Set up Kit tags: `welcome-sequence-complete`, `nurture-sequence-complete`, `paid-customer`, `interested-paid-product`, `tripwire-buyer`, `interested-tripwire`
-- Set up Kit automation rules (see bottom of each sequence file)
-- Test full funnel: Beacons → Kit form → PDF → welcome emails → nurture emails
-- Connect Beacons to Kit form, website, IG Highlights
 
 ## Future Product Ideas (from healing-practices-reference-guide.md)
 
