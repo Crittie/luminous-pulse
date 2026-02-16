@@ -80,8 +80,8 @@ by a lifetime of being alive.
 Nothing compares."
 
 **Slide 6**
-"I choose to grow alongside
-everything that changes."
+"I choose to stay rooted
+while everything around me changes."
 
 **Slide 7 (Practice)**
 Your morning practice:
@@ -353,7 +353,7 @@ of what makes you irreplaceable.
 Consider this your
 permission slip:
 
-(especially if you're in tech)
+(especially if the ground feels unsteady)
 
 **Slide 2**
 You are allowed to feel

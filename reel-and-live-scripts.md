@@ -260,7 +260,7 @@ Drop your grounding word for the week in the comments. I want to hear it.
 
 Hey everyone. Welcome to our first live grounding session.
 
-If you're just joining — I'm Christie, and this is Luminous Pulse. We make grounding words for tech workers navigating uncertain times. Not generic positivity. Not "just upskill" advice. Words that actually meet you where you are right now.
+If you're just joining — I'm Christie, and this is Luminous Pulse. We make grounding words for workers navigating uncertain times. Not generic positivity. Not "just upskill" advice. Words that actually meet you where you are right now.
 
 Here's how this works. I'm going to guide us through 5 grounding words over the next 15 minutes. For each one, I'll read it, we'll say it together, and then I'll give you a minute to sit with it.
 

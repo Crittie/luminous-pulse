@@ -118,6 +118,19 @@ We sit in the middle — never preachy, never dismissive, never woo. We're the v
 - **Structure**: Personal anecdote → insight → affirmation → one clear CTA
 - **Sign-off style**: "You are held, Christie" or "With you in this, Christie"
 
+### LinkedIn
+- **Tone**: Raw, personal, specific. More professional register but same emotional honesty.
+- **Length**: 200-600 words
+- **Capitalization exception**: Standard capitalization on LinkedIn (reads better on the platform). This is the only exception to the lowercase rule.
+- **Structure**: Story hook → specific moment → insight → brand mention
+- **"Tech workers"**: Acceptable on LinkedIn for audience targeting. Brand copy everywhere else uses "workers."
+
+### Blog / SEO Content
+- **Tone**: Long-form version of the email voice. Warm, expert, specific.
+- **Capitalization exception**: Standard capitalization for headings (SEO best practice). Body copy can use lowercase where it feels natural.
+- **"Tech workers"**: Acceptable in SEO-targeted blog content for search visibility. Document this as a conscious SEO exception.
+- **Statistics**: Must be sourced. Always include a citation or qualifier (e.g., "according to layoffs.fyi").
+
 ---
 
 ## Affirmation Writing Rules

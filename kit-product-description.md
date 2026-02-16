@@ -19,34 +19,34 @@ A free guided practice for anyone carrying the weight of a world that's changing
 
 ## Full Product Description
 
-**You're not falling behind. You're paying attention.**
+**this was written for the mornings when you need something steady before the noise starts.**
 
-That unease about the future? It means you're thinking clearly. This free practice gives you 5 days of grounding — affirmations, breathwork, and reflection prompts designed for the world you're actually living in.
+you're not falling behind. you're paying attention. that unease about the future? it means you're thinking clearly. this free practice gives you 5 days of grounding — affirmations, breathwork, and reflection prompts designed for the world you're actually living in.
 
-**What's inside:**
+**what's inside:**
 
 - 5 grounding affirmation cards (print-ready, pin to your desk or mirror)
-- A reflection prompt for each day
-- A 2-minute breathwork guide
-- A morning practice guide to make grounding a daily habit
+- a reflection prompt for each day
+- a 2-minute breathwork guide
+- a morning practice guide to make grounding a daily habit
 
-**A taste:**
+**a taste:**
 
 > *"There is something in you that change cannot touch. Today, I remember it."*
 
 > *"I am not broken for feeling anxious. I am awake in a world that is changing fast."*
 
-**How to use:**
+**how to use:**
 
-1. Download the PDF
-2. Each morning, read the grounding affirmation
-3. Take 2 minutes with the breathwork exercise
-4. Journal with the reflection prompt
-5. Notice how you feel by Day 5
+1. download the PDF
+2. each morning, read the grounding affirmation
+3. take 2 minutes with the breathwork exercise
+4. journal with the reflection prompt
+5. notice how you feel by Day 5
 
-**This is free.** Enter your email. It's yours in 30 seconds.
+**this is free.** enter your email. it's yours in 30 seconds.
 
-We'll send a short welcome series with more grounding practices and the story behind this project. Unsubscribe anytime.
+we'll send a short welcome series with more grounding practices and the story behind this project. unsubscribe anytime.
 
 ---
 

@@ -20,21 +20,21 @@ The Emergency Grounding Kit — For the Moment Everything Shifts
 
 ## Full Product Description
 
-**You just got the news. Or maybe you're waiting for it.**
+**you just got the news. or maybe you're waiting for it.**
 
-Either way, you need something right now — not a 30-day journey, not a course, not a "just upskill" pep talk.
+either way, you need something right now — not a 30-day journey, not a course, not a "just upskill" pep talk.
 
-You need one steady thing to hold onto while the ground shifts.
+you need one steady thing to hold onto while the ground shifts.
 
-**The Emergency Grounding Kit is that thing.**
+**the Emergency Grounding Kit is that thing.**
 
-**What's inside:**
+**what's inside:**
 
-- 10 emergency grounding cards — each one written for a specific moment in the displaced tech worker experience (the Slack notification, the 2am spiral, the identity crisis, the 200th application)
-- A guided breathwork script (the 4-7-8 Reset) for when your chest tightens and your mind races
-- A printable permission slip — to feel all of it, take your time, and not have the answers yet
+- 10 emergency grounding cards — each one written for a specific moment in the displaced worker experience (the Slack notification, the 2am spiral, the identity crisis, the morning after another round of layoffs hits your feed)
+- a guided breathwork script (the 4-7-8 Reset) for when your chest tightens and your mind races
+- a printable permission slip — to feel all of it, take your time, and not have the answers yet
 
-**These are not generic affirmations.** They name the exact feeling:
+**these are not generic affirmations.** they name the exact feeling:
 
 > *"My layoff is not a performance review. It is a business decision that happened to me."*
 
@@ -42,17 +42,17 @@ You need one steady thing to hold onto while the ground shifts.
 
 > *"The job market is brutal right now. That is not a reflection of my talent."*
 
-**How to use:**
+**how to use:**
 
-1. Open this when the spiral starts
-2. Pick the card that speaks to where you are right now
-3. Read it aloud — your voice anchors you
-4. Use the 4-7-8 breathwork to reset your nervous system
-5. Come back as many times as you need
+1. open this when the spiral starts
+2. pick the card that speaks to where you are right now
+3. read it aloud — your voice anchors you
+4. use the 4-7-8 breathwork to reset your nervous system
+5. come back as many times as you need
 
-You don't need a plan right now. You need ground beneath your feet.
+you don't need a plan right now. you need ground beneath your feet.
 
-**$9. Instant download. Keep it forever.**
+**$9. yours instantly. yours forever.**
 
 ---
 
@@ -62,25 +62,25 @@ You don't need a plan right now. You need ground beneath your feet.
 
 ---
 
-**Your 5-Day Grounding Practice is on its way to your inbox.**
+**your 5-Day Grounding Practice is on its way to your inbox.**
 
-While you wait — I made something for the harder days.
+while you wait — I made something for the harder days.
 
-The free practice is a daily rhythm. But some days don't follow a rhythm. Some days the news hits and you need something *right now*.
+the free practice is a daily rhythm. but some days don't follow a rhythm. some days the news hits and you need something *right now*.
 
-**The Emergency Grounding Kit** was written for those days.
+**the Emergency Grounding Kit** was written for those days.
 
 - 10 emergency grounding cards for the specific moments that knock you sideways (the Slack notification, the 2am spiral, the LinkedIn scroll, the "what are you doing next?" question)
-- A breathwork script you can use anywhere
-- A permission slip to feel all of it without rushing to "move on"
+- a breathwork script you can use anywhere
+- a permission slip to feel all of it without rushing to "move on"
 
-This isn't a course. It's a first-aid kit for your nervous system.
+this isn't a course. it's a first-aid kit for your nervous system.
 
-**$9. Yours instantly.**
+**$9. yours instantly.**
 
-**[Get the Emergency Kit — $9]**
+**[get the Emergency Kit — $9]**
 
-*Not ready? No pressure. The free practice will arrive in your inbox in a few minutes. Start there.*
+*not ready? no pressure. the free practice will arrive in your inbox in a few minutes. start there.*
 
 ---
 
@@ -103,23 +103,23 @@ This isn't a course. It's a first-aid kit for your nervous system.
 
 **Body**:
 
-Hey —
+hey —
 
-Your Emergency Grounding Kit is attached.
+your Emergency Grounding Kit is attached.
 
-Here's what I want you to do right now: scroll to Page 3. That's the 4-7-8 breathwork script. Try it once. Just once.
+here's what I want you to do right now: scroll to Page 3. that's the 4-7-8 breathwork script. try it once. just once.
 
-Then when you need one of the 10 cards — and you will — open this PDF and find the one that matches where you are. Read it out loud. Your voice anchors you more than your eyes do.
+then when you need one of the 10 cards — and you will — open this PDF and find the one that matches where you are. read it out loud. your voice anchors you more than your eyes do.
 
-The permission slip on Page 14? Print it. Put it somewhere you'll see it on the hard days.
+the permission slip on Page 14? print it. put it somewhere you'll see it on the hard days.
 
-You don't need a plan today. You just need ground beneath your feet.
+you don't need a plan today. you just need ground beneath your feet.
 
-I'm building more of this — a full 30-day practice, a community, guided sessions. But for now, this is yours.
+I'm building more of this — a full 30-day practice, a community, guided sessions. but for now, this is yours.
 
-Breathe. You are held.
+breathe. you are held.
 
-With you in this,
+with you in this,
 Christie
 
 P.S. — If one of the 10 cards hits different, I'd love to hear which one. Just reply to this email.

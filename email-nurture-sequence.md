@@ -139,9 +139,7 @@ P.S. — if $37 is tough right now, no pressure at all. the free 5-day practice 
 
 hey,
 
-I want to share something I've been hearing a lot:
-
-*"I didn't think affirmations were for me. I thought they were too woo-woo. but these actually name what I'm feeling. they meet me where I am."*
+the thing I keep hearing from people who've tried the free practice is this: "I didn't think this kind of thing was for me."
 
 that response keeps coming up — from engineers, PMs, designers, marketers, teachers. people who would never describe themselves as "affirmation people."
 

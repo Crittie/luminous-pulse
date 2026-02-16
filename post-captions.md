@@ -2,10 +2,10 @@
 
 > **Format**: Hook line + body (2-4 sentences) + CTA + hashtag set reference
 > **Voice**: Direct, grounded, warm, tender. Like a friend who sees you and tells you the truth.
-> **Target audience**: Displaced tech workers — PMs, engineers, designers, marketers navigating layoffs and career disruption
+> **Target audience**: Displaced workers — PMs, engineers, designers, marketers, teachers navigating layoffs and career disruption
 > **Hashtags**: 3-5 per post in caption. Use brand core tags + 1-2 from referenced set in `hashtag-sets.md`
 > **DM trigger**: Include "Comment GROUNDED" CTA on at least 2 posts per week for ManyChat automation
-> **Mix**: ~40% of captions directly name the tech worker experience. ~60% stay universal but still resonate with the target.
+> **Mix**: ~40% of captions directly name the displaced worker experience. ~60% stay universal but still resonate with the target.
 
 ---
 
@@ -167,7 +167,7 @@ Your track record is 100%. Every hard thing. You're still here.
 
 That tightness in your chest after another round of layoffs hits your feed? That's not weakness. That's awareness.
 
-The people who aren't anxious about the tech industry right now aren't braver. They just aren't paying attention.
+the people who aren't anxious right now might not be looking at what you're looking at. your awareness isn't weakness. it's honesty.
 
 **Hashtag Set**: Core + Set 2 + Set 5 | **CTA**: Comment GROUNDED for a free grounding word in your DMs
 
