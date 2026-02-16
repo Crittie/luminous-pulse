@@ -607,20 +607,12 @@ def build_whats_next(story, s):
     story.append(Spacer(1, 16))
 
     story.append(Paragraph(
-        "Or start with the free 5-Day Grounding Practice if you haven't already:",
-        s["BodyCenter"]
-    ))
-    story.append(Spacer(1, 8))
-    story.append(Paragraph("luminouspulse.co", s["CTA"]))
-
-    story.append(Spacer(1, 24))
-    story.append(HLine(PAGE_W - 144, SOFT_NAVY))
-    story.append(Spacer(1, 16))
-    story.append(Paragraph(
         "Follow @luminouspulse.co for daily grounding words<br/>"
         "that meet you where you actually are.",
         s["BodyCenter"]
     ))
+    story.append(Spacer(1, 8))
+    story.append(Paragraph("luminouspulse.co", s["CTA"]))
     story.append(Spacer(1, 16))
     story.append(Paragraph("You are held.", s["Closing"]))
 

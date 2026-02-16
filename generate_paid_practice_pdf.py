@@ -408,7 +408,6 @@ def build_cover(story, s):
         s["CoverSub"]
     ))
     story.append(Spacer(1, 60))
-    story.append(Paragraph("Created by Christie Parrow", s["CoverFooter"]))
     story.append(Paragraph("luminouspulse.co", s["CoverFooter"]))
     story.append(PageBreak())
 
