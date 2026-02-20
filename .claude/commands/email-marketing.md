@@ -85,7 +85,7 @@ PS: If one of the daily practices hits different, reply and tell me which one. I
 ```
 
 ### Sequence 1: Welcome (2 emails, Days 2-5)
-**File**: `/Users/christieparrow/affirmations-project/welcome-email-sequence.md`
+**File**: `/Users/christieparrow/luminous-pulse/copy/email/welcome-email-sequence.md`
 **Trigger**: `lead-magnet-downloaded` tag applied
 **Timing**: Day 2, Day 5
 
@@ -95,7 +95,7 @@ PS: If one of the daily practices hits different, reply and tell me which one. I
 | 2 (Day 5) | the night I almost didn't build this | Deepen trust, soft pitch to $37 product |
 
 ### Sequence 2: Nurture / Conversion (5 emails, Days 7-21)
-**File**: `/Users/christieparrow/affirmations-project/email-nurture-sequence.md`
+**File**: `/Users/christieparrow/luminous-pulse/copy/email/email-nurture-sequence.md`
 **Trigger**: Completed welcome sequence AND NOT `paid-customer`
 **Timing**: Day 7, Day 10, Day 14, Day 17, Day 21
 

@@ -14,3 +14,12 @@ __pycache__/
 
 # Vercel
 .vercel/
+
+# Archive (superseded files)
+_archive/
+
+# Node
+node_modules/
+
+# Video output
+videos/out/
