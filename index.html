@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Luminous Pulse — Grounding for Displaced Tech Workers</title>
-    <meta name="description" content="Where displaced humans come to rest. Grounding practices for tech workers navigating layoffs, uncertainty, and career disruption.">
+    <title>Luminous Pulse | AI Operations Consulting, Sarasota</title>
+    <meta name="description" content="Luminous Pulse is an AI operations practice in Sarasota, Florida. We help established businesses automate the work that slows them down, and license the operational data they already produce.">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Luminous Pulse — Grounding for Displaced Tech Workers">
-    <meta property="og:description" content="Where displaced humans come to rest. Free 5-day grounding practice for tech professionals navigating uncertainty.">
+    <meta property="og:title" content="Luminous Pulse | AI Operations Consulting, Sarasota">
+    <meta property="og:description" content="An AI operations practice in Sarasota. Automate the work that slows your business down, and get paid for the operational data it already produces.">
     <meta property="og:image" content="https://luminouspulse.co/assets/logos/logo-abstract-sanctuary.png">
     <meta property="og:url" content="https://luminouspulse.co">
     <meta property="og:type" content="website">
@@ -16,8 +16,8 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Luminous Pulse — Grounding for Displaced Tech Workers">
-    <meta name="twitter:description" content="Where displaced humans come to rest. Free 5-day grounding practice for tech professionals navigating uncertainty.">
+    <meta name="twitter:title" content="Luminous Pulse | AI Operations Consulting, Sarasota">
+    <meta name="twitter:description" content="An AI operations practice in Sarasota. Automate the work that slows your business down, and get paid for the operational data it already produces.">
     <meta name="twitter:image" content="https://luminouspulse.co/assets/logos/logo-abstract-sanctuary.png">
 
     <!-- Favicon -->
@@ -37,18 +37,20 @@
         html {
             -webkit-text-size-adjust: 100%;
             -ms-text-size-adjust: 100%;
+            scroll-behavior: smooth;
         }
 
         body {
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             color: #e8e8e8;
-            line-height: 1.6;
+            line-height: 1.65;
             overflow-x: hidden;
             min-height: 100vh;
             min-height: 100dvh;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            font-weight: 300;
         }
 
         /* Animated background pulses */
@@ -116,81 +118,249 @@
         .container {
             position: relative;
             z-index: 1;
-            max-width: 700px;
+            max-width: 860px;
             margin: 0 auto;
             padding: 0 24px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
         }
 
-        /* Brand name */
+        /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 30px;
+        }
+
         .logo {
-            font-size: 2.2rem;
+            font-size: 1.55rem;
             font-weight: 300;
             letter-spacing: 3px;
-            margin-top: 32px;
             background: linear-gradient(135deg, #6CB4EE, #F4C430);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
         }
 
-        /* Hero logo image */
+        nav a {
+            color: rgba(232, 232, 232, 0.62);
+            text-decoration: none;
+            font-size: 0.78rem;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            margin-left: 26px;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #F4C430;
+        }
+
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 54px 0 48px;
+        }
+
         .hero-logo {
             width: 100%;
             max-width: 380px;
             height: auto;
-            margin-top: 24px;
             border-radius: 50%;
         }
 
-        /* Tagline */
         h1 {
-            font-size: 1.5rem;
+            font-size: 2.45rem;
             font-weight: 300;
-            letter-spacing: 0.5px;
-            color: rgba(255, 255, 255, 0.85);
-            margin-top: 28px;
-            line-height: 1.4;
+            line-height: 1.25;
+            max-width: 640px;
+            margin: 30px auto 20px;
+            color: #ffffff;
         }
 
-        h1 .highlight {
+        .sub {
+            font-size: 1.13rem;
+            color: rgba(232, 232, 232, 0.68);
+            max-width: 620px;
+            margin: 0 auto 32px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 13px 30px;
+            border-radius: 999px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            letter-spacing: 0.04em;
+            font-weight: 500;
+            color: #10101e;
+            background: linear-gradient(135deg, #6CB4EE, #F4C430);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 22px rgba(108, 180, 238, 0.28);
+        }
+
+        .btn.ghost {
+            background: transparent;
+            color: #e8e8e8;
+            border: 1px solid rgba(232, 232, 232, 0.22);
+            margin-left: 12px;
+            font-weight: 300;
+        }
+
+        .who {
+            text-align: center;
+            color: rgba(232, 232, 232, 0.62);
+            font-size: 0.98rem;
+            max-width: 660px;
+            margin: 0 auto;
+            padding: 26px 10px;
+            border-top: 1px solid rgba(232, 232, 232, 0.14);
+            border-bottom: 1px solid rgba(232, 232, 232, 0.14);
+        }
+
+        /* Sections */
+        section {
+            padding: 62px 0 6px;
+        }
+
+        .kicker {
+            font-size: 0.72rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
             color: #F4C430;
+            margin-bottom: 14px;
         }
 
-        /* Sub-tagline */
-        .tagline {
-            font-size: 1rem;
-            color: rgba(255, 255, 255, 0.55);
+        .kicker.blue {
+            color: #6CB4EE;
+        }
+
+        h2 {
+            font-size: 1.8rem;
             font-weight: 300;
-            margin-top: 8px;
-            letter-spacing: 0.3px;
+            line-height: 1.3;
+            margin-bottom: 18px;
+            max-width: 600px;
+            color: #ffffff;
         }
 
-        /* CTA section */
-        .cta-section {
-            margin-top: 32px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            width: 100%;
+        p {
+            color: rgba(232, 232, 232, 0.72);
+            max-width: 660px;
+            margin-bottom: 16px;
+            font-size: 1.03rem;
         }
 
-        .subtitle {
+        ul {
+            list-style: none;
+            max-width: 660px;
+            margin: 6px 0 20px;
+        }
+
+        ul li {
+            padding: 9px 0 9px 22px;
+            position: relative;
+            color: rgba(232, 232, 232, 0.72);
+            border-bottom: 1px solid rgba(232, 232, 232, 0.06);
+        }
+
+        ul li:last-child {
+            border-bottom: none;
+        }
+
+        ul li::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 19px;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            border: 1.5px solid #6CB4EE;
+        }
+
+        ul li strong {
+            color: #e8e8e8;
+            font-weight: 500;
+        }
+
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 18px;
+            margin: 26px 0 14px;
+        }
+
+        .step {
+            border: 1px solid rgba(232, 232, 232, 0.14);
+            border-radius: 14px;
+            padding: 22px 20px;
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .step .n {
+            font-size: 0.78rem;
+            letter-spacing: 0.25em;
+            color: #F4C430;
+            margin-bottom: 10px;
+        }
+
+        .step h3 {
             font-size: 1.05rem;
-            color: #B4A7D6;
             font-weight: 400;
-            margin-bottom: 20px;
-            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+            color: #ffffff;
         }
 
-        .privacy-note {
-            font-size: 0.8rem;
-            color: #555;
-            font-weight: 300;
-            margin-top: 8px;
+        .step p {
+            font-size: 0.9rem;
+            margin: 0;
+        }
+
+        .fact {
+            border-left: 3px solid #F4C430;
+            padding: 6px 0 6px 20px;
+            margin: 24px 0;
+            font-size: 1.13rem;
+            color: #e8e8e8;
+            max-width: 640px;
+        }
+
+        .disclosure {
+            font-size: 0.88rem;
+            font-style: italic;
+            margin-top: 18px;
+        }
+
+        .creds {
+            letter-spacing: 0.05em;
+            color: #e8e8e8;
+            font-size: 0.95rem;
+        }
+
+        .contact-box {
+            text-align: center;
+            padding: 18px 0 6px;
+        }
+
+        .contact-box .mail {
+            font-size: 1.35rem;
+            color: #F4C430;
+            text-decoration: none;
+        }
+
+        .contact-meta {
+            color: rgba(232, 232, 232, 0.62);
+            font-size: 0.95rem;
+            margin-top: 14px;
+        }
+
+        .contact-meta a {
+            color: #6CB4EE;
+            text-decoration: none;
         }
 
         /* Footer */
@@ -198,7 +368,15 @@
             position: relative;
             z-index: 1;
             text-align: center;
-            padding: 48px 24px 36px;
+            padding: 56px 24px 38px;
+            margin-top: 64px;
+            border-top: 1px solid rgba(232, 232, 232, 0.12);
+        }
+
+        footer p {
+            margin: 0 auto 8px;
+            font-size: 0.85rem;
+            color: rgba(232, 232, 232, 0.55);
         }
 
         footer a {
@@ -215,130 +393,45 @@
             color: #F4C430;
         }
 
-        /* ---- Kit form overrides ---- */
-        .formkit-form[data-uid="7f9bdedb95"] {
-            max-width: 460px !important;
-            margin: 0 auto !important;
-            background: transparent !important;
-            border: none !important;
-            width: 100% !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] [data-style="clean"] {
-            padding: 0 !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-fields {
-            gap: 10px;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-input {
-            background: rgba(22, 33, 62, 0.6) !important;
-            border: 1px solid rgba(108, 180, 238, 0.3) !important;
-            border-radius: 8px !important;
-            color: #ffffff !important;
-            font-size: 1rem !important;
-            font-weight: 300 !important;
-            padding: 16px 20px !important;
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-            min-height: 52px !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-input:focus {
-            border-color: #6CB4EE !important;
-            box-shadow: 0 0 0 3px rgba(108, 180, 238, 0.1) !important;
-            outline: none !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-input::placeholder {
-            color: #666 !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-submit {
-            background: linear-gradient(135deg, #6CB4EE, #4A9FD8) !important;
-            border-radius: 8px !important;
-            font-size: 1rem !important;
-            font-weight: 500 !important;
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-            transition: all 0.3s ease !important;
-            margin-bottom: 0 !important;
-            min-height: 52px !important;
-            cursor: pointer !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-submit:hover {
-            background: linear-gradient(135deg, #4A9FD8, #6CB4EE) !important;
-            transform: translateY(-2px) !important;
-            box-shadow: 0 8px 20px rgba(108, 180, 238, 0.3) !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-submit:active {
-            transform: translateY(0) !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-submit > span {
-            padding: 16px 32px !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-powered-by-convertkit-container {
-            display: none !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-alert-success {
-            background: rgba(16, 191, 122, 0.15) !important;
-            border-color: #10bf7a !important;
-            color: #10bf7a !important;
-            border-radius: 8px !important;
-        }
-
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-field,
-        .formkit-form[data-uid="7f9bdedb95"] .formkit-submit {
-            margin-bottom: 0 !important;
-        }
-
         /* ---- Mobile: 768px and below ---- */
         @media (max-width: 768px) {
             .logo {
-                font-size: 1.8rem;
-                margin-top: 24px;
+                font-size: 1.25rem;
                 letter-spacing: 2px;
+            }
+
+            nav a {
+                margin-left: 15px;
+                font-size: 0.68rem;
+            }
+
+            .hero {
+                padding: 40px 0 36px;
             }
 
             .hero-logo {
                 max-width: 280px;
-                margin-top: 20px;
             }
 
             h1 {
-                font-size: 1.25rem;
-                margin-top: 20px;
-                padding: 0 8px;
+                font-size: 1.85rem;
             }
 
-            .tagline {
-                font-size: 0.9rem;
+            h2 {
+                font-size: 1.5rem;
             }
 
-            .cta-section {
-                margin-top: 24px;
+            .steps {
+                grid-template-columns: 1fr;
             }
 
-            .subtitle {
-                font-size: 0.95rem;
-                margin-bottom: 16px;
-            }
-
-            .formkit-form[data-uid="7f9bdedb95"] .formkit-fields {
-                flex-direction: column !important;
-            }
-
-            .formkit-form[data-uid="7f9bdedb95"] .formkit-input,
-            .formkit-form[data-uid="7f9bdedb95"] .formkit-submit {
-                width: 100% !important;
+            .btn.ghost {
+                margin-left: 0;
+                margin-top: 12px;
             }
 
             footer {
-                padding: 36px 24px 28px;
+                padding: 44px 24px 30px;
             }
         }
 
@@ -349,8 +442,12 @@
             }
 
             .logo {
-                font-size: 1.5rem;
+                font-size: 1.1rem;
                 letter-spacing: 1.5px;
+            }
+
+            nav a {
+                margin-left: 10px;
             }
 
             .hero-logo {
@@ -358,27 +455,17 @@
             }
 
             h1 {
-                font-size: 1.1rem;
-            }
-
-            .tagline {
-                font-size: 0.85rem;
-            }
-
-            .subtitle {
-                font-size: 0.9rem;
+                font-size: 1.55rem;
             }
         }
 
         /* Safe area for notched phones */
         @supports (padding: env(safe-area-inset-bottom)) {
             footer {
-                padding-bottom: calc(28px + env(safe-area-inset-bottom));
+                padding-bottom: calc(30px + env(safe-area-inset-bottom));
             }
         }
     </style>
-
-    <!-- Kit JS removed — we handle form submission + redirect ourselves -->
 </head>
 <body>
     <!-- Animated background -->
@@ -389,61 +476,93 @@
     </div>
 
     <div class="container">
-        <div class="logo">luminous pulse</div>
+        <header>
+            <div class="logo">luminous pulse</div>
+            <nav>
+                <a href="#consulting">Consulting</a>
+                <a href="#data">Data Partnerships</a>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </header>
 
-        <img src="assets/logos/logo-abstract-sanctuary-transparent.png" alt="Luminous Pulse — concentric rings of amber, blue, and lavender light" class="hero-logo" width="760" height="400">
-
-        <div class="cta-section">
-
-            <form action="https://app.kit.com/forms/9081984/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="9081984" data-uid="7f9bdedb95" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;redirect&quot;,&quot;success_message&quot;:&quot;check your email — your grounding practice is on the way.&quot;,&quot;redirect_url&quot;:&quot;https://luminous-pulse.kit.com/products/the-emergency-grounding-kit&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" min-width="400 500 600 700 800">
-                <div data-style="clean">
-                    <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
-                    <div data-element="fields" data-stacked="false" class="seva-fields formkit-fields">
-                        <div class="formkit-field">
-                            <input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="your email" required="" type="email">
-                        </div>
-                        <button data-element="submit" class="formkit-submit formkit-submit">
-                            <div class="formkit-spinner"><div></div><div></div><div></div></div>
-                            <span>free 5-day grounding practice</span>
-                        </button>
-                    </div>
-                </div>
-            </form>
-
-            <p class="privacy-note">no spam. unsubscribe anytime.</p>
+        <div class="hero">
+            <img src="https://luminouspulse.co/assets/logos/logo-abstract-sanctuary-transparent.png" alt="Luminous Pulse: concentric rings of amber, blue, and lavender light" class="hero-logo" width="760" height="400">
+            <h1>Your business runs on know-how. Put it to work.</h1>
+            <p class="sub">Luminous Pulse is an AI operations practice based in Sarasota. I help established businesses automate the work that slows them down, and turn the operational data they already produce into a new asset.</p>
+            <a class="btn" href="#contact">Start a conversation</a>
+            <a class="btn ghost" href="#consulting">See how it works</a>
         </div>
+
+        <div class="who">Built for established businesses that run on process: real estate, construction, senior care, and other operations-heavy companies across the Sarasota and Tampa Bay area.</div>
+
+        <section id="consulting">
+            <div class="kicker">Consulting</div>
+            <h2>First, take the drag out of the work.</h2>
+            <p>Most businesses do not need more software. They need the work itself to move faster. I study how your operation actually runs, then build AI workflows and agents that take over the repetitive middle: lead intake, inbox triage, scheduling, document drafting, follow-ups, reporting.</p>
+            <ul>
+                <li>Lead intake and follow-up agents for sales teams</li>
+                <li>Inbox triage, with replies drafted in your voice</li>
+                <li>Scheduling and coordination across teams and vendors</li>
+                <li>Document and proposal drafting from your own templates</li>
+                <li>Weekly reporting pulled from the systems you already use</li>
+            </ul>
+            <div class="steps">
+                <div class="step">
+                    <div class="n">01</div>
+                    <h3>Operations review</h3>
+                    <p>I map how work flows through your business and where it stalls.</p>
+                </div>
+                <div class="step">
+                    <div class="n">02</div>
+                    <h3>Build</h3>
+                    <p>You get working automations built around your tools and your process, not a generic platform.</p>
+                </div>
+                <div class="step">
+                    <div class="n">03</div>
+                    <h3>Run and refine</h3>
+                    <p>I stay on as your operator while the workflows prove themselves, then hand over the keys.</p>
+                </div>
+            </div>
+            <p>Every engagement starts with an operations review, scoped in writing before work begins.</p>
+        </section>
+
+        <section id="data">
+            <div class="kicker blue">Data Partnerships</div>
+            <h2>Second, get paid for the data your business already produces.</h2>
+            <p>AI labs now license anonymized operational data to train their systems: the SOPs, CRM records, project histories, and workflows your team creates every day. As an independent referral partner for micro1, I introduce qualified companies to these programs and help owners protect their interests in the process.</p>
+            <div class="fact">Published company payouts range from $100K to $2M or more per approved data package, quoted by micro1 after a short evaluation.</div>
+            <ul>
+                <li><strong>You decide what is in scope.</strong> Privileged, HR, payroll, health, and customer-confidential data stay out.</li>
+                <li><strong>Scope is agreed in writing</strong> before anything is shared.</li>
+                <li><strong>You review what a package contains</strong> before it is used.</li>
+            </ul>
+            <a class="btn" href="https://company.micro1.ai/register/?referralCode=bbcf918b-dab4-44ee-a5b8-29a5dec4d0fa&utm_source=referral&utm_medium=share&utm_campaign=job_referral">Check your company's eligibility</a>
+            <p class="disclosure">Disclosure: micro1 pays me a referral fee when a company I introduce is approved. My incentive is disclosed here the same way I disclose it in person.</p>
+        </section>
+
+        <section id="about">
+            <div class="kicker">About</div>
+            <h2>Run by an operator.</h2>
+            <p>I'm Christie Parrow. I spent 16 years running programs for the federal government, including program management work at the IRS and a disaster recovery detail with FEMA. Today I build AI workflows for businesses, and I train AI systems hands-on as a data expert with micro1. Luminous Pulse is where that experience becomes a practice. I run and translate complex programs, and I speak both languages, the owner's and the engineer's.</p>
+            <p class="creds">16 years federal program management · PMP · ITIL Foundations · GenAI workflow builder · Sarasota, Florida</p>
+        </section>
+
+        <section id="contact">
+            <div class="kicker blue">Contact</div>
+            <h2>Tell me where it hurts.</h2>
+            <p>One conversation is enough to know whether there is something worth building. No pitch deck, no pressure.</p>
+            <div class="contact-box">
+                <a class="mail" href="mailto:christie@luminouspulse.co">christie@luminouspulse.co</a>
+                <div class="contact-meta">Sarasota / Venice, Florida</div>
+            </div>
+        </section>
     </div>
 
     <footer>
-        <a href="https://instagram.com/luminouspulse.co" target="_blank" rel="noopener">@luminouspulse.co</a>
+        <p>© 2026 Luminous Pulse. Sarasota, Florida.</p>
+        <p>Luminous Pulse is an independent practice. Data partnership introductions are made as an independent referral partner for micro1.</p>
     </footer>
-
-    <script>
-        (function() {
-            var tripwireUrl = 'https://luminous-pulse.kit.com/products/the-emergency-grounding-kit';
-            var form = document.querySelector('.formkit-form');
-            if (!form) return;
-
-            form.addEventListener('submit', function(e) {
-                e.preventDefault();
-
-                var email = form.querySelector('input[name="email_address"]');
-                if (!email || !email.value) return;
-
-                var btn = form.querySelector('.formkit-submit span');
-                if (btn) btn.textContent = 'sending...';
-
-                var formData = new FormData();
-                formData.append('email_address', email.value);
-
-                var xhr = new XMLHttpRequest();
-                xhr.open('POST', 'https://app.kit.com/forms/9081984/subscriptions', true);
-                xhr.onload = function() { window.location.href = tripwireUrl; };
-                xhr.onerror = function() { window.location.href = tripwireUrl; };
-                xhr.send(formData);
-            });
-        })();
-    </script>
 
 </body>
 </html>
